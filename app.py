@@ -14,7 +14,7 @@ def generate_response(size):
     start_time = datetime.datetime.now()
     for el in raw:
         el["timestamp"] = start_time + datetime.timedelta(minutes=random.randrange(60))
-        el["high"] = random.randrange(0, 2000)
+        el["high"] = random.randrange(1, 2000)
         el["low"] = random.randrange(0, el["high"])
         el["avg"] = round(random.uniform(el["low"], el["high"]), 2)
         el["last"] = random.randrange(el["low"], el["high"])
