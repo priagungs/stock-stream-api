@@ -1,0 +1,4703 @@
+[
+    {
+        "kode_saham": "AALI",
+        "nama_perusahaan": "Astra Agro Lestari Tbk",
+        "sektoral": [
+            "AGRI",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "ABBA",
+        "nama_perusahaan": "Mahaka Media Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "ABDA",
+        "nama_perusahaan": "Asuransi Bina Dana Arta Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "ABMM",
+        "nama_perusahaan": "ABM Investama Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "ACES",
+        "nama_perusahaan": "Ace Hardware Indonesia Tbk",
+        "sektoral": [
+            "TRADE",
+            "KOMPAS100",
+            "PEFINDO25"
+        ]
+    },
+    {
+        "kode_saham": "ACST",
+        "nama_perusahaan": "Acset Indonusa Tbk",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "ADES",
+        "nama_perusahaan": "Akasha Wira International Tbk",
+        "sektoral": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "kode_saham": "ADHI",
+        "nama_perusahaan": "Adhi Karya Persero",
+        "sektoral": [
+            "PROPERTY",
+            "LQ45",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "ADMF",
+        "nama_perusahaan": "Adira Dinamika Multi Finance Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "ADMG",
+        "nama_perusahaan": "Polychem Indonesia Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "ADRO",
+        "nama_perusahaan": "Adaro Energy Tbk",
+        "sektoral": [
+            "MINING",
+            "LQ45",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "AGII",
+        "nama_perusahaan": "Aneka Gas Industri, Tbk",
+        "sektoral": [
+            "BASIC-IND"
+        ]
+    },
+    {
+        "kode_saham": "AGRO",
+        "nama_perusahaan": "Bank Rakyat Indonesia Agroniaga Tbk",
+        "sektoral": [
+            "FINANCE",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "AGRS",
+        "nama_perusahaan": "Bank Agris Tbk.",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "AHAP",
+        "nama_perusahaan": "Asuransi Harta Aman Pratama Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "AIMS",
+        "nama_perusahaan": "Akbar Indomakmur",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "AISA",
+        "nama_perusahaan": "Tiga Pilar Sejahtera Food Tbk.",
+        "sektoral": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "kode_saham": "AKKU",
+        "nama_perusahaan": "Anugerah Kagum Karya",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "AKPI",
+        "nama_perusahaan": "Argha Karya Prima Industry Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "AKRA",
+        "nama_perusahaan": "AKR Corporindo Tbk",
+        "sektoral": [
+            "TRADE",
+            "LQ45",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "AKSI",
+        "nama_perusahaan": "Majapahit Intiora",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "ALDO",
+        "nama_perusahaan": "Alkindo Naratama Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "ALKA",
+        "nama_perusahaan": "Alakasa Industrindo Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "ALMI",
+        "nama_perusahaan": "Alumindo Light Metal Industry Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "ALTO",
+        "nama_perusahaan": "Tri Banyan Tirta Tbk",
+        "sektoral": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "kode_saham": "AMAG",
+        "nama_perusahaan": "Asuransi Multi Artha Guna Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "AMFG",
+        "nama_perusahaan": "Asahimas Flat Glass Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "AMIN",
+        "nama_perusahaan": "Ateliers Mecaniques D Indonesia Tbk.",
+        "sektoral": [
+            "MISC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "AMRT",
+        "nama_perusahaan": "Sumber Alfaria Trijaya Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "ANDI",
+        "nama_perusahaan": "Andira Agro",
+        "sektoral": [
+            "AGRI"
+        ]
+    },
+    {
+        "kode_saham": "ANJT",
+        "nama_perusahaan": "Austindo Nusantara Jaya Tbk",
+        "sektoral": [
+            "AGRI"
+        ]
+    },
+    {
+        "kode_saham": "ANTM",
+        "nama_perusahaan": "Aneka Tambang Persero",
+        "sektoral": [
+            "MINING",
+            "LQ45",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "APEX",
+        "nama_perusahaan": "Apexindo Pratama Duta Tbk",
+        "sektoral": [
+            "MINING"
+        ]
+    },
+    {
+        "kode_saham": "APIC",
+        "nama_perusahaan": "Pacific Strategic Financial Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "APII",
+        "nama_perusahaan": "Arita Prima Indonesia Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "APLI",
+        "nama_perusahaan": "Asiaplast Industries Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "APLN",
+        "nama_perusahaan": "Agung Podomoro Land Tbk",
+        "sektoral": [
+            "PROPERTY",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "APOL",
+        "nama_perusahaan": "Arpeni Pratama Ocean Line Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "ARGO",
+        "nama_perusahaan": "Argo Pantes Tbk",
+        "sektoral": [
+            "MISC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "ARII",
+        "nama_perusahaan": "Atlas Resources Tbk",
+        "sektoral": [
+            "MINING"
+        ]
+    },
+    {
+        "kode_saham": "ARMY",
+        "nama_perusahaan": "PT Armidian Karyatama, Tbk",
+        "sektoral": [
+            "PROPERTY",
+            "KOMPAS100",
+            "PEFINDO25"
+        ]
+    },
+    {
+        "kode_saham": "ARNA",
+        "nama_perusahaan": "Arwana Citramulia Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "PEFINDO25",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "ARTA",
+        "nama_perusahaan": "Arthavest Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "ARTI",
+        "nama_perusahaan": "Ratu Prabu Energi Tbk",
+        "sektoral": [
+            "MINING"
+        ]
+    },
+    {
+        "kode_saham": "ARTO",
+        "nama_perusahaan": "Bank Artos Indonesia Tbk.",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "ASBI",
+        "nama_perusahaan": "Asuransi Bintang Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "ASDM",
+        "nama_perusahaan": "Asuransi Dayin Mitra Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "ASGR",
+        "nama_perusahaan": "Astra Graphia Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "ASII",
+        "nama_perusahaan": "Astra International Tbk",
+        "sektoral": [
+            "MISC-IND",
+            "LQ45",
+            "KOMPAS100",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "ASJT",
+        "nama_perusahaan": "Asuransi Jasa Tania Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "ASMI",
+        "nama_perusahaan": "Asuransi Kresna Mitra",
+        "sektoral": [
+            "FINANCE",
+            "PEFINDO25"
+        ]
+    },
+    {
+        "kode_saham": "ASRI",
+        "nama_perusahaan": "Alam Sutera Realty Tbk",
+        "sektoral": [
+            "PROPERTY",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "ASRM",
+        "nama_perusahaan": "Asuransi Ramayana Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "ASSA",
+        "nama_perusahaan": "Adi Sarana Armada Tbk",
+        "sektoral": [
+            "INFRASTRUC",
+            "PEFINDO25"
+        ]
+    },
+    {
+        "kode_saham": "ATIC",
+        "nama_perusahaan": "Anabatic Technologies Tbk.",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "ATPK",
+        "nama_perusahaan": "Bara Jaya Internasional",
+        "sektoral": [
+            "MINING"
+        ]
+    },
+    {
+        "kode_saham": "AUTO",
+        "nama_perusahaan": "Astra Otoparts Tbk",
+        "sektoral": [
+            "MISC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "BABP",
+        "nama_perusahaan": "Bank Mnc Internasional",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "BACA",
+        "nama_perusahaan": "Bank Capital Indonesia Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "BAEK",
+        "nama_perusahaan": "Bank Ekonomi Raharja Tbk",
+        "sektoral": [
+            "DELISTING"
+        ]
+    },
+    {
+        "kode_saham": "BAJA",
+        "nama_perusahaan": "Saranacentral Bajatama Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "BALI",
+        "nama_perusahaan": "Bali Towerindo Sentra Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "BAPA",
+        "nama_perusahaan": "Bekasi Asri Pemula Tbk",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "BATA",
+        "nama_perusahaan": "Sepatu Bata Tbk",
+        "sektoral": [
+            "MISC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "BAYU",
+        "nama_perusahaan": "Bayu Buana Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "BBCA",
+        "nama_perusahaan": "Bank Central Asia Tbk",
+        "sektoral": [
+            "FINANCE",
+            "LQ45",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "BBHI",
+        "nama_perusahaan": "Bank Harda Internasional Tbk PT",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "BBKP",
+        "nama_perusahaan": "Bank Bukopin Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "BBLD",
+        "nama_perusahaan": "Buana Finance Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "BBMD",
+        "nama_perusahaan": "Bank Mestika Dharma Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "BBNI",
+        "nama_perusahaan": "Bank Negara Indonesia (Persero) Tbk",
+        "sektoral": [
+            "FINANCE",
+            "LQ45",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "BBNP",
+        "nama_perusahaan": "Bank Nusantara Parahyangan Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "BBRI",
+        "nama_perusahaan": "Bank Rakyat Persero",
+        "sektoral": [
+            "FINANCE",
+            "LQ45",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "BBRM",
+        "nama_perusahaan": "Pelayaran Nasional Bina Buana Raya Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "BBTN",
+        "nama_perusahaan": "Bank Tabungan Negara (Persero) Tbk",
+        "sektoral": [
+            "FINANCE",
+            "LQ45",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "BBYB",
+        "nama_perusahaan": "Bank Yudha Bhakti Tbk.",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "BCAP",
+        "nama_perusahaan": "MNC Kapital Indonesia Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "BCIC",
+        "nama_perusahaan": "Bank Mutiara Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "BCIP",
+        "nama_perusahaan": "Bumi Citra Permai Tbk",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "BDMN",
+        "nama_perusahaan": "Bank Danamon Indonesia Tbk",
+        "sektoral": [
+            "FINANCE",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "BEKS",
+        "nama_perusahaan": "PT BPD Banten",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "BELL",
+        "nama_perusahaan": "Trisula Textile",
+        "sektoral": [
+            "MISC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "BEST",
+        "nama_perusahaan": "Bekasi Fajar Industrial Estate Tbk",
+        "sektoral": [
+            "PROPERTY",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "BFIN",
+        "nama_perusahaan": "BFI Finance Indonesia Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "BGTG",
+        "nama_perusahaan": "Bank Ganesha Tbk PT",
+        "sektoral": [
+            "FINANCE",
+            "PEFINDO25"
+        ]
+    },
+    {
+        "kode_saham": "BHIT",
+        "nama_perusahaan": "MNC Investama Tbk",
+        "sektoral": [
+            "TRADE",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "BIKA",
+        "nama_perusahaan": "Binakarya Jaya Abadi Tbk PT",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "BIMA",
+        "nama_perusahaan": "Primarindo Asia Infrastructure Tbk",
+        "sektoral": [
+            "MISC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "BINA",
+        "nama_perusahaan": "Bank Ina Perdana Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "BIPI",
+        "nama_perusahaan": "Benakat Integra Tbk",
+        "sektoral": [
+            "MINING",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "BIPP",
+        "nama_perusahaan": "Bhuwanatala Indah Permai Tbk",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "BIRD",
+        "nama_perusahaan": "Blue Bird Tbk.",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "BISI",
+        "nama_perusahaan": "BISI International Tbk",
+        "sektoral": [
+            "AGRI"
+        ]
+    },
+    {
+        "kode_saham": "BJBR",
+        "nama_perusahaan": "Bank Pembangunan Daerah Jawa Barat dan Banten Tbk",
+        "sektoral": [
+            "FINANCE",
+            "KOMPAS100",
+            "LQ45"
+        ]
+    },
+    {
+        "kode_saham": "BJTM",
+        "nama_perusahaan": "Bank Pembangunan Timur",
+        "sektoral": [
+            "FINANCE",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "BKDP",
+        "nama_perusahaan": "Bukit Darmo Property Tbk",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "BKSL",
+        "nama_perusahaan": "Sentul City Tbk",
+        "sektoral": [
+            "PROPERTY",
+            "LQ45",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "BKSW",
+        "nama_perusahaan": "Bank Qnb Indonesia Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "BLTA",
+        "nama_perusahaan": "Berlian Laju Tanker Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "BLTZ",
+        "nama_perusahaan": "Graha Layar Prima Tbk.",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "BMAS",
+        "nama_perusahaan": "Bank Maspion Indonesia Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "BMRI",
+        "nama_perusahaan": "Bank Mandiri Persero",
+        "sektoral": [
+            "FINANCE",
+            "LQ45",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "BMSR",
+        "nama_perusahaan": "Bintang Mitra Semestaraya Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "BMTR",
+        "nama_perusahaan": "Global Mediacom Tbk",
+        "sektoral": [
+            "TRADE",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "BNBA",
+        "nama_perusahaan": "Bank Bumi Arta Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "BNBR",
+        "nama_perusahaan": "Bakrie & Brothers",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "BNGA",
+        "nama_perusahaan": "Bank CIMB Niaga Tbk",
+        "sektoral": [
+            "FINANCE",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "BNII",
+        "nama_perusahaan": "Bank Maybank Indonesia",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "BNLI",
+        "nama_perusahaan": "Bank Permata Tbk",
+        "sektoral": [
+            "FINANCE",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "BOGA",
+        "nama_perusahaan": "Bintang Oto Global, Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "BOLT",
+        "nama_perusahaan": "Garuda Metalindo Tbk",
+        "sektoral": [
+            "MISC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "BORN",
+        "nama_perusahaan": "Borneo Lumbung Energi Metal Tbk",
+        "sektoral": [
+            "MINING"
+        ]
+    },
+    {
+        "kode_saham": "BOSS",
+        "nama_perusahaan": "Borneo Olah Sarana",
+        "sektoral": [
+            "MINING"
+        ]
+    },
+    {
+        "kode_saham": "BPFI",
+        "nama_perusahaan": "Batavia Prosperindo Finance Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "BPII",
+        "nama_perusahaan": "Batavia Prosperindo Internasional Tbk.",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "BPTR",
+        "nama_perusahaan": "Batavia Prosperindo Trans",
+        "sektoral": [
+            "INSFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "BRAM",
+        "nama_perusahaan": "Indo Kordsa Tbk",
+        "sektoral": [
+            "MISC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "BRAU",
+        "nama_perusahaan": "Berau Coal Energy Tbk",
+        "sektoral": [
+            "DELISTING"
+        ]
+    },
+    {
+        "kode_saham": "BRIS",
+        "nama_perusahaan": "Bank BRISyariah",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "BRMS",
+        "nama_perusahaan": "Bumi Resources Minerals Tbk",
+        "sektoral": [
+            "TRADE",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "BRNA",
+        "nama_perusahaan": "Berlina Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "BRPT",
+        "nama_perusahaan": "Barito Pacific Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "LQ45",
+            "KOMPAS100",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "BSDE",
+        "nama_perusahaan": "Bumi Serpong Damai Tbk",
+        "sektoral": [
+            "PROPERTY",
+            "LQ45",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "BSIM",
+        "nama_perusahaan": "Bank Sinarmas Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "BSSR",
+        "nama_perusahaan": "Baramulti Suksessarana Tbk",
+        "sektoral": [
+            "MINING"
+        ]
+    },
+    {
+        "kode_saham": "BSWD",
+        "nama_perusahaan": "Bank Of India Indonesia Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "BTEK",
+        "nama_perusahaan": "Bumi Teknokultura Unggul Tbk",
+        "sektoral": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "kode_saham": "BTEL",
+        "nama_perusahaan": "Bakrie Telecom Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "BTON",
+        "nama_perusahaan": "Betonjaya Manunggal Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "BTPN",
+        "nama_perusahaan": "Bank Tabungan Pensiunan Nasional Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "BTPS",
+        "nama_perusahaan": "Bank Tabungan Pensiunan Nasional Syariah",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "BUDI",
+        "nama_perusahaan": "Budi Starch & Sweetener",
+        "sektoral": [
+            "CONSUMER",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "BUKK",
+        "nama_perusahaan": "Bukaka Teknik Utama Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "BULL",
+        "nama_perusahaan": "Buana Listya Tama Tbk",
+        "sektoral": [
+            "PEFINDO25"
+        ]
+    },
+    {
+        "kode_saham": "BUMI",
+        "nama_perusahaan": "Bumi Resources Tbk",
+        "sektoral": [
+            "MINING",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "BUVA",
+        "nama_perusahaan": "Bukit Uluwatu Villa Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "BVIC",
+        "nama_perusahaan": "Bank Victoria International Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "BWPT",
+        "nama_perusahaan": "Eagle High Plantations Tbk",
+        "sektoral": [
+            "AGRI",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "BYAN",
+        "nama_perusahaan": "Bayan Resources Tbk",
+        "sektoral": [
+            "MINING"
+        ]
+    },
+    {
+        "kode_saham": "CAKK",
+        "nama_perusahaan": "Cahayaputra Asa Keramik",
+        "sektoral": [
+            "BASIC-IND"
+        ]
+    },
+    {
+        "kode_saham": "CAMP",
+        "nama_perusahaan": "Campina Ice Cream",
+        "sektoral": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "kode_saham": "CANI",
+        "nama_perusahaan": "Capitol Nusantara Indonesia Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "CARS",
+        "nama_perusahaan": "PT Industri Dan Perdagangan Bintraco Dharma, Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "CASA",
+        "nama_perusahaan": "Capital Financial Indonesia Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "CASS",
+        "nama_perusahaan": "Cardig Aero Services Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "CEKA",
+        "nama_perusahaan": "Wilmar Cahaya Indonesia Tbk",
+        "sektoral": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "kode_saham": "CENT",
+        "nama_perusahaan": "Centratama Telekom",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "CFIN",
+        "nama_perusahaan": "Clipan Finance Indonesia Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "CINT",
+        "nama_perusahaan": "Chitose Internasional Tbk.",
+        "sektoral": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "kode_saham": "CITA",
+        "nama_perusahaan": "Cita Mineral Investindo Tbk",
+        "sektoral": [
+            "MINING"
+        ]
+    },
+    {
+        "kode_saham": "CITY",
+        "nama_perusahaan": "Natura City",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "CKRA",
+        "nama_perusahaan": "Cakra Mineral Tbk",
+        "sektoral": [
+            "MINING"
+        ]
+    },
+    {
+        "kode_saham": "CLEO",
+        "nama_perusahaan": "PT Sariguna Primatirta, Tbk",
+        "sektoral": [
+            "CONSUMER",
+            "PEFINDO25"
+        ]
+    },
+    {
+        "kode_saham": "CLPI",
+        "nama_perusahaan": "Colorpak Indonesia Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "CMNP",
+        "nama_perusahaan": "Citra Marga Nusaphala Persada Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "CMPP",
+        "nama_perusahaan": "Rimau Multi",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "CNKO",
+        "nama_perusahaan": "Exploitasi Energi Indonesia Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "CNTB",
+        "nama_perusahaan": "Saham Seri B ( Centex Tbk )",
+        "sektoral": [
+            "MISC-IND"
+        ]
+    },
+    {
+        "kode_saham": "CNTX",
+        "nama_perusahaan": "Centex Prf",
+        "sektoral": [
+            "MISC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "COWL",
+        "nama_perusahaan": "Cowell Development Tbk",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "CPGT",
+        "nama_perusahaan": "Cipaganti Citra Graha Tbk",
+        "sektoral": [
+            "DELISTING"
+        ]
+    },
+    {
+        "kode_saham": "CPIN",
+        "nama_perusahaan": "Charoen Pokphand Indonesia Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "KOMPAS100",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "CPRO",
+        "nama_perusahaan": "Central Proteinaprima Tbk",
+        "sektoral": [
+            "BASIC-IND"
+        ]
+    },
+    {
+        "kode_saham": "CSAP",
+        "nama_perusahaan": "Catur Sentosa Adiprana Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "CSIS",
+        "nama_perusahaan": "PT Cahayasakti Investindo Sukses, Tbk",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "CTBN",
+        "nama_perusahaan": "Citra Tubindo Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "CTRA",
+        "nama_perusahaan": "Ciputra Development Tbk",
+        "sektoral": [
+            "PROPERTY",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "CTRP",
+        "nama_perusahaan": "Ciputra Property Tbk",
+        "sektoral": [
+            "DELISTING"
+        ]
+    },
+    {
+        "kode_saham": "CTRS",
+        "nama_perusahaan": "Ciputra Surya Tbk",
+        "sektoral": [
+            "DELISTING"
+        ]
+    },
+    {
+        "kode_saham": "CTTH",
+        "nama_perusahaan": "Citatah Tbk",
+        "sektoral": [
+            "MINING"
+        ]
+    },
+    {
+        "kode_saham": "DAJK",
+        "nama_perusahaan": "Dwi Aneka Jaya Kemasindo Tbk.",
+        "sektoral": [
+            "BASIC-IND"
+        ]
+    },
+    {
+        "kode_saham": "DART",
+        "nama_perusahaan": "Duta Anggada Realty Tbk",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "DAVO",
+        "nama_perusahaan": "Davomas Abadi Tbk",
+        "sektoral": [
+            "DELISTING"
+        ]
+    },
+    {
+        "kode_saham": "DAYA",
+        "nama_perusahaan": "Duta Intidaya Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "DEAL",
+        "nama_perusahaan": "Dewata Freight",
+        "sektoral": [
+            "INSFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "DEFI",
+        "nama_perusahaan": "Danasupra Erapacific Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "DEWA",
+        "nama_perusahaan": "Darma Henwa Tbk",
+        "sektoral": [
+            "MINING"
+        ]
+    },
+    {
+        "kode_saham": "DFAM",
+        "nama_perusahaan": "PT Dafam Property",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "DGIK",
+        "nama_perusahaan": "Nusa Konstruksi Enjiniring Tbk",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "DIGI",
+        "nama_perusahaan": "Arkadia Digital",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "DILD",
+        "nama_perusahaan": "Intiland Development Tbk",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "DKFT",
+        "nama_perusahaan": "Central Omega Resources Tbk",
+        "sektoral": [
+            "MINING"
+        ]
+    },
+    {
+        "kode_saham": "DLTA",
+        "nama_perusahaan": "Delta Djakarta Tbk",
+        "sektoral": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "kode_saham": "DMAS",
+        "nama_perusahaan": "Puradelta Lestari Tbk PT",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "DNAR",
+        "nama_perusahaan": "Bank Dinar Indonesia Tbk.",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "DNET",
+        "nama_perusahaan": "Indoritel Makmur Internasional Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "DOID",
+        "nama_perusahaan": "Delta Dunia Makmur Tbk",
+        "sektoral": [
+            "MINING",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "DPNS",
+        "nama_perusahaan": "Duta Pertiwi Nusantara Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "DPUM",
+        "nama_perusahaan": "Dua Putra Utama Makmur PT",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "DSFI",
+        "nama_perusahaan": "Dharma Samudera Fishing Industries Tbk",
+        "sektoral": [
+            "AGRI"
+        ]
+    },
+    {
+        "kode_saham": "DSNG",
+        "nama_perusahaan": "Dharma Satya Nusantara Tbk",
+        "sektoral": [
+            "AGRI"
+        ]
+    },
+    {
+        "kode_saham": "DSSA",
+        "nama_perusahaan": "Dian Swastatika Sentosa Tbk",
+        "sektoral": [
+            "MINING"
+        ]
+    },
+    {
+        "kode_saham": "DUCK",
+        "nama_perusahaan": "PT Jaya Bersama",
+        "sektoral": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "kode_saham": "DUTI",
+        "nama_perusahaan": "Duta Pertiwi Tbk",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "DVLA",
+        "nama_perusahaan": "Darya-Varia Laboratoria Tbk",
+        "sektoral": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "kode_saham": "DWGL",
+        "nama_perusahaan": "Dwi Guna Laksana",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "DYAN",
+        "nama_perusahaan": "Dyandra Media International Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "ECII",
+        "nama_perusahaan": "Electronic City Indonesia Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "EKAD",
+        "nama_perusahaan": "Ekadharma International Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "ELSA",
+        "nama_perusahaan": "Elnusa Tbk",
+        "sektoral": [
+            "MINING",
+            "LQ45",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "ELTY",
+        "nama_perusahaan": "Bakrieland Development Tbk",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "EMDE",
+        "nama_perusahaan": "Megapolitan Developments Tbk",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "EMTK",
+        "nama_perusahaan": "Elang Mahkota Teknologi Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "ENRG",
+        "nama_perusahaan": "Energi Mega Persada Tbk",
+        "sektoral": [
+            "MINING"
+        ]
+    },
+    {
+        "kode_saham": "EPMT",
+        "nama_perusahaan": "Enseval Putra",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "ERAA",
+        "nama_perusahaan": "Erajaya Swasembada Tbk",
+        "sektoral": [
+            "TRADE",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "ERTX",
+        "nama_perusahaan": "Eratex Djaja Tbk",
+        "sektoral": [
+            "MISC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "ESSA",
+        "nama_perusahaan": "Surya Esa Perkasa Tbk",
+        "sektoral": [
+            "MINING"
+        ]
+    },
+    {
+        "kode_saham": "ESTI",
+        "nama_perusahaan": "Ever Shine Textile",
+        "sektoral": [
+            "MISC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "ETWA",
+        "nama_perusahaan": "Eterindo Wahanatama Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "EXCL",
+        "nama_perusahaan": "XL Axiata Tbk",
+        "sektoral": [
+            "INFRASTRUC",
+            "KOMPAS100",
+            "LQ45"
+        ]
+    },
+    {
+        "kode_saham": "FAST",
+        "nama_perusahaan": "Fast Food Indonesia Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "FASW",
+        "nama_perusahaan": "Fajar Surya Wisesa Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "FILM",
+        "nama_perusahaan": "MD Pictures",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "FINN",
+        "nama_perusahaan": "PT First Indo American Leasing, Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "FIRE",
+        "nama_perusahaan": "PT Alfa Energi Investama, Tbk",
+        "sektoral": [
+            "MINING"
+        ]
+    },
+    {
+        "kode_saham": "FISH",
+        "nama_perusahaan": "FKS Multi Agro Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "FMII",
+        "nama_perusahaan": "Fortune Mate Indonesia Tbk",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "FORU",
+        "nama_perusahaan": "Fortune Indonesia Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "FORZ",
+        "nama_perusahaan": "PT Forza Land Indonesia, Tbk",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "FPNI",
+        "nama_perusahaan": "Lotte Chemical Titan PT",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "FREN",
+        "nama_perusahaan": "Smartfren Telecom Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "GAMA",
+        "nama_perusahaan": "Gading Development Tbk",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "GDST",
+        "nama_perusahaan": "Gunawan Dianjaya Steel Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "GDYR",
+        "nama_perusahaan": "Goodyear Indonesia Tbk",
+        "sektoral": [
+            "MISC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "GEMA",
+        "nama_perusahaan": "Gema Grahasarana Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "GEMS",
+        "nama_perusahaan": "Golden Energy Mines Tbk",
+        "sektoral": [
+            "MINING"
+        ]
+    },
+    {
+        "kode_saham": "GGRM",
+        "nama_perusahaan": "Gudang Garam Tbk",
+        "sektoral": [
+            "CONSUMER",
+            "LQ45",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "GHON",
+        "nama_perusahaan": "Gihon Telekom",
+        "sektoral": [
+            "INSFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "GIAA",
+        "nama_perusahaan": "Garuda Indonesia (Persero) Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "GJTL",
+        "nama_perusahaan": "Gajah Tunggal Tbk",
+        "sektoral": [
+            "MISC-IND",
+            "KOMPAS100",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "GLOB",
+        "nama_perusahaan": "Global Teleshop Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "GMCW",
+        "nama_perusahaan": "Grahamas Citrawisata Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "GMFI",
+        "nama_perusahaan": "Garuda Maintenance Facility",
+        "sektoral": [
+            "MISC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "GMTD",
+        "nama_perusahaan": "Gowa Makassar Tourism Development Tbk",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "GOLD",
+        "nama_perusahaan": "Visi Telekomunikasi",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "GOLL",
+        "nama_perusahaan": "Golden Plantation Tbk.",
+        "sektoral": [
+            "AGRI"
+        ]
+    },
+    {
+        "kode_saham": "GOOD",
+        "nama_perusahaan": "Garudafood Putra Putri",
+        "sektoral": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "kode_saham": "GPRA",
+        "nama_perusahaan": "Perdana Gapura Prima",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "GREN",
+        "nama_perusahaan": "Evergreen Invesco Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "GSMF",
+        "nama_perusahaan": "Equity Dev Inv",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "GTBO",
+        "nama_perusahaan": "Garda Tujuh Buana Tbk",
+        "sektoral": [
+            "MINING"
+        ]
+    },
+    {
+        "kode_saham": "GWSA",
+        "nama_perusahaan": "Greenwood Sejahtera Tbk",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "GZCO",
+        "nama_perusahaan": "Gozco Plantations Tbk",
+        "sektoral": [
+            "AGRI"
+        ]
+    },
+    {
+        "kode_saham": "HADE",
+        "nama_perusahaan": "HD Capital Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "HDFA",
+        "nama_perusahaan": "Radana Bhaskara Finance Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "HDTX",
+        "nama_perusahaan": "Panasia Indo Resources Tbk",
+        "sektoral": [
+            "MISC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "HEAL",
+        "nama_perusahaan": "Medikaloka Hermina",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "HELI",
+        "nama_perusahaan": "Jaya Trishindo",
+        "sektoral": [
+            "INSFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "HERO",
+        "nama_perusahaan": "Hero Supermarket Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "HEXA",
+        "nama_perusahaan": "Hexindo Adiperkasa Tbk",
+        "sektoral": [
+            "TRADE",
+            "PEFINDO25"
+        ]
+    },
+    {
+        "kode_saham": "HITS",
+        "nama_perusahaan": "Humpuss Intermoda Transportasi Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "HKMU",
+        "nama_perusahaan": "HK Metals Utama",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "HMSP",
+        "nama_perusahaan": "HM Sampoerna Tbk",
+        "sektoral": [
+            "CONSUMER",
+            "LQ45",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "HOKI",
+        "nama_perusahaan": "PT Buyung Poetra Sembada, Tbk",
+        "sektoral": [
+            "CONSUMER",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "HOME",
+        "nama_perusahaan": "Hotel Mandarine Regency Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "HOTL",
+        "nama_perusahaan": "Saraswati Griya Lestari Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "HRTA",
+        "nama_perusahaan": "PT Hartadinata Abadi, Tbk",
+        "sektoral": [
+            "CONSUMER",
+            "PEFINDO25"
+        ]
+    },
+    {
+        "kode_saham": "HRUM",
+        "nama_perusahaan": "Harum Energy Tbk",
+        "sektoral": [
+            "MINING",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "IATA",
+        "nama_perusahaan": "Indonesia Air Transport Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "IBFN",
+        "nama_perusahaan": "Intan Baruprana Finance Tbk.",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "IBST",
+        "nama_perusahaan": "Inti Bangun Sejahtera Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "ICBP",
+        "nama_perusahaan": "Indofood CBP Sukses Makmur Tbk",
+        "sektoral": [
+            "CONSUMER",
+            "LQ45",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "ICON",
+        "nama_perusahaan": "Island Concepts Indonesia Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "IDPR",
+        "nama_perusahaan": "Indonesia Pondasi Raya Tbk PT",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "IGAR",
+        "nama_perusahaan": "Champion Pacific Indonesia Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "IIKP",
+        "nama_perusahaan": "Inti Kapuas Arowana",
+        "sektoral": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "kode_saham": "IKAI",
+        "nama_perusahaan": "Intikeramik Alamasri Industri Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "IKBI",
+        "nama_perusahaan": "Sumi Indo Kabel Tbk",
+        "sektoral": [
+            "MISC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "IMAS",
+        "nama_perusahaan": "Indomobil Sukses Internasional Tbk",
+        "sektoral": [
+            "MISC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "IMJS",
+        "nama_perusahaan": "Indomobil Multi Jasa Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "IMPC",
+        "nama_perusahaan": "Impack Pratama Industri Tbk.",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "INAF",
+        "nama_perusahaan": "Indofarma Tbk",
+        "sektoral": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "kode_saham": "INAI",
+        "nama_perusahaan": "Indal Aluminium Industry Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "INCF",
+        "nama_perusahaan": "Indo Komoditi Korpora",
+        "sektoral": [
+            "BASIC-IND"
+        ]
+    },
+    {
+        "kode_saham": "INCI",
+        "nama_perusahaan": "Intanwijaya Internasional Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "INCO",
+        "nama_perusahaan": "Vale Indonesia Tbk",
+        "sektoral": [
+            "MINING",
+            "LQ45",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "INDF",
+        "nama_perusahaan": "Indofood Sukses Makmur Tbk",
+        "sektoral": [
+            "CONSUMER",
+            "LQ45",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "INDR",
+        "nama_perusahaan": "Indorama Synthetics",
+        "sektoral": [
+            "MISC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "INDS",
+        "nama_perusahaan": "Indospring Tbk",
+        "sektoral": [
+            "MISC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "INDX",
+        "nama_perusahaan": "Tanah Laut Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "INDY",
+        "nama_perusahaan": "Indika Energy Tbk",
+        "sektoral": [
+            "INFRASTRUC",
+            "LQ45",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "INKP",
+        "nama_perusahaan": "Indah Kiat Pulp & Paper",
+        "sektoral": [
+            "BASIC-IND",
+            "LQ45",
+            "KOMPAS100",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "INPC",
+        "nama_perusahaan": "Bank Artha Graha Internasional Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "INPP",
+        "nama_perusahaan": "Indonesian Paradise Property Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "INPS",
+        "nama_perusahaan": "Indah Prakasa Sentosa",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "INRU",
+        "nama_perusahaan": "Toba Pulp Lestari Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "INTA",
+        "nama_perusahaan": "Intraco Penta Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "INTD",
+        "nama_perusahaan": "Inter-Delta",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "INTP",
+        "nama_perusahaan": "Indocement Tunggal Prakasa Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "LQ45",
+            "KOMPAS100",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "INVS",
+        "nama_perusahaan": "Inovisi Infracom Tbk",
+        "sektoral": [
+            "DELISTING"
+        ]
+    },
+    {
+        "kode_saham": "IPCC",
+        "nama_perusahaan": "PT Kendaraan Terminal",
+        "sektoral": [
+            "INSFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "IPCM",
+        "nama_perusahaan": "Jasa Armada Indonesia",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "IPOL",
+        "nama_perusahaan": "Indopoly Swakarsa Industry Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "ISAT",
+        "nama_perusahaan": "Indosat Tbk",
+        "sektoral": [
+            "INFRASTRUC",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "ISSP",
+        "nama_perusahaan": "Steel Pipe Industry of Indonesia Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "ITMA",
+        "nama_perusahaan": "Sumber Energi Andalan Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "ITMG",
+        "nama_perusahaan": "Indo Tambangraya Megah Tbk",
+        "sektoral": [
+            "MINING",
+            "LQ45",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "ITTG",
+        "nama_perusahaan": "Leo Investments Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "JAWA",
+        "nama_perusahaan": "Jaya Agra Wattie Tbk",
+        "sektoral": [
+            "AGRI"
+        ]
+    },
+    {
+        "kode_saham": "JECC",
+        "nama_perusahaan": "Jembo Cable Company Tbk",
+        "sektoral": [
+            "MISC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "JGLE",
+        "nama_perusahaan": "Graha Andrasentra Propertindo Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "JIHD",
+        "nama_perusahaan": "Jakarta Int Hotels & Dev",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "JKON",
+        "nama_perusahaan": "Jaya Konstruksi Manggala Pratama Tbk",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "JKSW",
+        "nama_perusahaan": "Jakarta Kyoei Steel Works Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "JMAS",
+        "nama_perusahaan": "Asuransi Jiwa Syariah",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "JPFA",
+        "nama_perusahaan": "Japfa Comfeed Indonesia Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "KOMPAS100",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "JPRS",
+        "nama_perusahaan": "Jaya Pari Steel Tbk",
+        "sektoral": [
+            "DELISTING"
+        ]
+    },
+    {
+        "kode_saham": "JRPT",
+        "nama_perusahaan": "Jaya Real Property Tbk",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "JSKY",
+        "nama_perusahaan": "Sky Energy",
+        "sektoral": [
+            "MISC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "JSMR",
+        "nama_perusahaan": "Jasa Marga (Persero) Tbk",
+        "sektoral": [
+            "INFRASTRUC",
+            "LQ45",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "JSPT",
+        "nama_perusahaan": "Jakarta Setiabudi Internasional Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "JTPE",
+        "nama_perusahaan": "Jasuindo Tiga Perkasa Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "KAEF",
+        "nama_perusahaan": "Kimia Farma Persero",
+        "sektoral": [
+            "CONSUMER",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "KARW",
+        "nama_perusahaan": "ICTSI Jasa Prima Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "KBLI",
+        "nama_perusahaan": "KMI Wire And Cable",
+        "sektoral": [
+            "MISC-IND",
+            "KOMPAS100",
+            "PEFINDO25",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "KBLM",
+        "nama_perusahaan": "Kabelindo Murni Tbk",
+        "sektoral": [
+            "MISC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "KBLV",
+        "nama_perusahaan": "First Media Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "KBRI",
+        "nama_perusahaan": "Kertas Basuki Rachmat Indonesia Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "KDSI",
+        "nama_perusahaan": "Kedawung Setia Industrial Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "KIAS",
+        "nama_perusahaan": "Keramika Indonesia Assosiasi Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "KICI",
+        "nama_perusahaan": "Kedaung Indah Can Tbk",
+        "sektoral": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "kode_saham": "KIJA",
+        "nama_perusahaan": "Kawasan Industri Jababeka Tbk",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "KINO",
+        "nama_perusahaan": "Kino Indonesia Tbk PT",
+        "sektoral": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "kode_saham": "KIOS",
+        "nama_perusahaan": "Kioson Komersial Indonesia",
+        "sektoral": [
+            "TRADE",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "KKGI",
+        "nama_perusahaan": "Resource Alam Indonesia Tbk",
+        "sektoral": [
+            "MINING"
+        ]
+    },
+    {
+        "kode_saham": "KLBF",
+        "nama_perusahaan": "Kalbe Farma Tbk",
+        "sektoral": [
+            "CONSUMER",
+            "LQ45",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "KMTR",
+        "nama_perusahaan": "PT Kirana Megatara, Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "KOBX",
+        "nama_perusahaan": "Kobexindo Tractors Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "KOIN",
+        "nama_perusahaan": "Kokoh Inti Arebama Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "KONI",
+        "nama_perusahaan": "Perdana Bangun Pusaka Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "KOPI",
+        "nama_perusahaan": "Mitra Energi Persada Tbk.",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "KPAL",
+        "nama_perusahaan": "Steadfast Marine",
+        "sektoral": [
+            "MISC-IND"
+        ]
+    },
+    {
+        "kode_saham": "KPAS",
+        "nama_perusahaan": "Cottonindo Ariesta",
+        "sektoral": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "kode_saham": "KPIG",
+        "nama_perusahaan": "MNC Land Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "KRAH",
+        "nama_perusahaan": "Grand Kartech Tbk",
+        "sektoral": [
+            "MISC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "KRAS",
+        "nama_perusahaan": "Krakatau Steel Persero",
+        "sektoral": [
+            "BASIC-IND",
+            "KOMPAS100",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "KREN",
+        "nama_perusahaan": "Kresna Graha Investama",
+        "sektoral": [
+            "FINANCE",
+            "KOMPAS100",
+            "PEFINDO25"
+        ]
+    },
+    {
+        "kode_saham": "LAMI",
+        "nama_perusahaan": "Lamicitra Nusantara Tbk",
+        "sektoral": [
+            "DELISTING"
+        ]
+    },
+    {
+        "kode_saham": "LAND",
+        "nama_perusahaan": "Trimitra Propertindo",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "LAPD",
+        "nama_perusahaan": "Leyand International Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "LCGP",
+        "nama_perusahaan": "Eureka Prima Jakarta Tbk",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "LCKM",
+        "nama_perusahaan": "LCK Global Kedaton",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "LEAD",
+        "nama_perusahaan": "Logindo Samudramakmur Tbk",
+        "sektoral": [
+            "INFRASTRUC",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "LINK",
+        "nama_perusahaan": "Link Net Tbk.",
+        "sektoral": [
+            "TRADE",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "LION",
+        "nama_perusahaan": "Lion Metal Works Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "LMAS",
+        "nama_perusahaan": "Limas Indonesia Makmur",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "LMPI",
+        "nama_perusahaan": "Langgeng Makmur Industri Tbk",
+        "sektoral": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "kode_saham": "LMSH",
+        "nama_perusahaan": "Lionmesh Prima Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "LPCK",
+        "nama_perusahaan": "Lippo Cikarang Tbk",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "LPGI",
+        "nama_perusahaan": "Lippo General Insurance Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "LPIN",
+        "nama_perusahaan": "Multi Prima Sejahtera Tbk",
+        "sektoral": [
+            "MISC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "LPKR",
+        "nama_perusahaan": "Lippo Karawaci Tbk",
+        "sektoral": [
+            "PROPERTY",
+            "LQ45",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "LPLI",
+        "nama_perusahaan": "Star Pacific Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "LPPF",
+        "nama_perusahaan": "Matahari Department Store Tbk",
+        "sektoral": [
+            "TRADE",
+            "LQ45",
+            "KOMPAS100",
+            "PEFINDO25"
+        ]
+    },
+    {
+        "kode_saham": "LPPS",
+        "nama_perusahaan": "Lippo Securities Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "LRNA",
+        "nama_perusahaan": "Eka Sari Lorena Transport Tbk.",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "LSIP",
+        "nama_perusahaan": "PP London Sumatra Indonesia Tbk",
+        "sektoral": [
+            "AGRI",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "LTLS",
+        "nama_perusahaan": "Lautan Luas Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "MABA",
+        "nama_perusahaan": "PT Marga Abhinaya Abadi, Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "MAGP",
+        "nama_perusahaan": "Multi Agro Gemilang Plantation Tbk",
+        "sektoral": [
+            "AGRI"
+        ]
+    },
+    {
+        "kode_saham": "MAIN",
+        "nama_perusahaan": "Malindo Feedmill Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "MAMI",
+        "nama_perusahaan": "Mas Murni Indonesia Tbk",
+        "sektoral": [
+            "TRADE",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "MAMIP",
+        "nama_perusahaan": "Mas Murni Tbk (Saham Preferen)",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "MAPA",
+        "nama_perusahaan": "MAP Aktif Adiperkasa",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "MAPB",
+        "nama_perusahaan": "PT MAP Boga Adiperkasa, Tbk",
+        "sektoral": [
+            "TRADE",
+            "PEFINDO25"
+        ]
+    },
+    {
+        "kode_saham": "MAPI",
+        "nama_perusahaan": "Mitra Adiperkasa Tbk",
+        "sektoral": [
+            "TRADE",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "MARI",
+        "nama_perusahaan": "Mahaka Radio Integra Tbk.",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "MARK",
+        "nama_perusahaan": "PT Mark Dynamics Indonesia, Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "PEFINDO25",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "MASA",
+        "nama_perusahaan": "Multistrada Arah Sarana Tbk",
+        "sektoral": [
+            "MISC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "MAYA",
+        "nama_perusahaan": "Bank Mayapada Internasional Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "MBAP",
+        "nama_perusahaan": "Mitrabara Adiperdana Tbk.",
+        "sektoral": [
+            "MINING"
+        ]
+    },
+    {
+        "kode_saham": "MBSS",
+        "nama_perusahaan": "Mitrabahtera Segara Sejati Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "MBTO",
+        "nama_perusahaan": "Martina Berto Tbk",
+        "sektoral": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "kode_saham": "MCAS",
+        "nama_perusahaan": "M Cash Integrasi PT",
+        "sektoral": [
+            "TRADE",
+            "PEFINDO25"
+        ]
+    },
+    {
+        "kode_saham": "MCOR",
+        "nama_perusahaan": "Bank Windu Kentjana International Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "MDIA",
+        "nama_perusahaan": "Intermedia Capital Tbk.",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "MDKA",
+        "nama_perusahaan": "Merdeka Copper Gold TBK PT",
+        "sektoral": [
+            "MINING"
+        ]
+    },
+    {
+        "kode_saham": "MDKI",
+        "nama_perusahaan": "Emdeki Utama",
+        "sektoral": [
+            "BASIC-IND"
+        ]
+    },
+    {
+        "kode_saham": "MDLN",
+        "nama_perusahaan": "Modernland Realty Ltd Tbk",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "MDRN",
+        "nama_perusahaan": "Modern Internasional Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "MEDC",
+        "nama_perusahaan": "Medco Energi International Tbk",
+        "sektoral": [
+            "MINING",
+            "LQ45",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "MEGA",
+        "nama_perusahaan": "Bank Mega Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "MERK",
+        "nama_perusahaan": "Merck Tbk",
+        "sektoral": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "kode_saham": "META",
+        "nama_perusahaan": "Nusantara Infrastructure Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "MFIN",
+        "nama_perusahaan": "Mandala Multifinance Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "MFMI",
+        "nama_perusahaan": "Multifiling Mitra Indonesia Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "MGNA",
+        "nama_perusahaan": "Magna Finance Tbk.",
+        "sektoral": [
+            "AGRI"
+        ]
+    },
+    {
+        "kode_saham": "MGRO",
+        "nama_perusahaan": "Mahkota Grup",
+        "sektoral": [
+            "AGRI"
+        ]
+    },
+    {
+        "kode_saham": "MICE",
+        "nama_perusahaan": "Multi Indocitra Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "MIDI",
+        "nama_perusahaan": "Midi Utama Indonesia Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "MIKA",
+        "nama_perusahaan": "Mitra Keluarga Karyasehat Tbk",
+        "sektoral": [
+            "TRADE",
+            "KOMPAS100",
+            "PEFINDO25"
+        ]
+    },
+    {
+        "kode_saham": "MINA",
+        "nama_perusahaan": "PT Sanurhasta Mitra, Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "MIRA",
+        "nama_perusahaan": "Mitra International Resources Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "MITI",
+        "nama_perusahaan": "Mitra Investindo Tbk",
+        "sektoral": [
+            "MINING"
+        ]
+    },
+    {
+        "kode_saham": "MKNT",
+        "nama_perusahaan": "Mitra Komunikasi Nusantara Tbk PT",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "MKPI",
+        "nama_perusahaan": "Metropolitan Kentjana Tbk",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "MLBI",
+        "nama_perusahaan": "Multi Bintang Indonesia Tbk",
+        "sektoral": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "kode_saham": "MLIA",
+        "nama_perusahaan": "Mulia Industrindo Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "MLPL",
+        "nama_perusahaan": "Multipolar Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "MLPT",
+        "nama_perusahaan": "Multipolar Technology Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "MMLP",
+        "nama_perusahaan": "Mega Manunggal Property Tbk.",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "MNCN",
+        "nama_perusahaan": "Media Nusantara Citra Tbk",
+        "sektoral": [
+            "TRADE",
+            "LQ45",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "MOLI",
+        "nama_perusahaan": "Madusari Murni Indah",
+        "sektoral": [
+            "BASIC-IND"
+        ]
+    },
+    {
+        "kode_saham": "MPMX",
+        "nama_perusahaan": "Mitra Pinasthika Mustika Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "MPOW",
+        "nama_perusahaan": "PT Megapower Makmur, Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "MPPA",
+        "nama_perusahaan": "Matahari Putra Prima Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "MPRO",
+        "nama_perusahaan": "Propertindo Mulia",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "MRAT",
+        "nama_perusahaan": "Mustika Ratu Tbk",
+        "sektoral": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "kode_saham": "MREI",
+        "nama_perusahaan": "Maskapai Reasuransi Indonesia Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "MSIN",
+        "nama_perusahaan": "MNC Studios",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "MSKY",
+        "nama_perusahaan": "MNC Sky Vision Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "MTDL",
+        "nama_perusahaan": "Metrodata Electronics Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "MTFN",
+        "nama_perusahaan": "Capitalinc Investment Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "MTLA",
+        "nama_perusahaan": "Metropolitan Land Tbk",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "MTRA",
+        "nama_perusahaan": "Mitra Pemuda Tbk.",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "MTSM",
+        "nama_perusahaan": "Metro Realty Tbk",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "MTWI",
+        "nama_perusahaan": "Malacca Trust Wuwungan",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "MYOH",
+        "nama_perusahaan": "Samindo Resources Tbk",
+        "sektoral": [
+            "MINING"
+        ]
+    },
+    {
+        "kode_saham": "MYOR",
+        "nama_perusahaan": "Mayora Indah Tbk",
+        "sektoral": [
+            "CONSUMER",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "MYRX",
+        "nama_perusahaan": "Hanson International Tbk",
+        "sektoral": [
+            "PROPERTY",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "MYRXP",
+        "nama_perusahaan": "Saham Seri B Hanson International Tbk",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "MYTX",
+        "nama_perusahaan": "Apac Citra Centertex Tbk",
+        "sektoral": [
+            "MISC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "NAGA",
+        "nama_perusahaan": "Bank Mitraniaga Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "NASA",
+        "nama_perusahaan": "PT Ayana Land International, Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "NELY",
+        "nama_perusahaan": "Pelayaran Nelly Dwi Putri Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "NFCX",
+        "nama_perusahaan": "NFC Indonesia Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "NICK",
+        "nama_perusahaan": "Charnic Capital",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "NIKL",
+        "nama_perusahaan": "Pelat Timah Nusantara Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "NIPS",
+        "nama_perusahaan": "Nipress Tbk",
+        "sektoral": [
+            "MISC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "NIRO",
+        "nama_perusahaan": "Nirvana Development Tbk",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "NISP",
+        "nama_perusahaan": "Bank OCBC NISP Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "NOBU",
+        "nama_perusahaan": "Bank Nationalnobu Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "NRCA",
+        "nama_perusahaan": "Nusa Raya Cipta Tbk",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "NUSA",
+        "nama_perusahaan": "Sinergi Megah Internusa",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "OASA",
+        "nama_perusahaan": "Protech Mitra Perkasa Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "OCAP",
+        "nama_perusahaan": "Onix Capital Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "OKAS",
+        "nama_perusahaan": "Ancora Indonesia Resources Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "OMRE",
+        "nama_perusahaan": "Indonesia Prima Property Tbk",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "PADI",
+        "nama_perusahaan": "Minna Padi Investama Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "PALM",
+        "nama_perusahaan": "Provident Agro Tbk",
+        "sektoral": [
+            "AGRI"
+        ]
+    },
+    {
+        "kode_saham": "PANI",
+        "nama_perusahaan": "Pratama Abadi Nusa",
+        "sektoral": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "kode_saham": "PANR",
+        "nama_perusahaan": "Panorama Sentrawisata Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "PANS",
+        "nama_perusahaan": "Panin Sekuritas Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "PBID",
+        "nama_perusahaan": "Panca Budi Idaman",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "PBRX",
+        "nama_perusahaan": "Pan Brothers Tbk",
+        "sektoral": [
+            "MISC-IND",
+            "KOMPAS100",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "PBSA",
+        "nama_perusahaan": "Paramita Bangun Sarana, Tbk",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "PCAR",
+        "nama_perusahaan": "Prima Cakrawala Abadi",
+        "sektoral": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "kode_saham": "PDES",
+        "nama_perusahaan": "Destinasi Tirta Nusantara Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "PEGE",
+        "nama_perusahaan": "Panca Global Securities Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "PGAS",
+        "nama_perusahaan": "Perusahaan Gas Negara (Persero) Tbk",
+        "sektoral": [
+            "INFRASTRUC",
+            "LQ45",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "PGLI",
+        "nama_perusahaan": "Pembangunan Graha Lestari Indah Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "PICO",
+        "nama_perusahaan": "Pelangi Indah Canindo Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "PJAA",
+        "nama_perusahaan": "Pembangunan Jaya Ancol Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "PKPK",
+        "nama_perusahaan": "Perdana Karya Perkasa Tbk",
+        "sektoral": [
+            "MINING"
+        ]
+    },
+    {
+        "kode_saham": "PLAS",
+        "nama_perusahaan": "Polaris Investama Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "PLIN",
+        "nama_perusahaan": "Plaza Indonesia Realty Tbk",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "PNBN",
+        "nama_perusahaan": "Bank Pan Indonesia Tbk",
+        "sektoral": [
+            "FINANCE",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "PNBS",
+        "nama_perusahaan": "Bank Panin Syariah Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "PNIN",
+        "nama_perusahaan": "Paninvest",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "PNLF",
+        "nama_perusahaan": "Panin Financial Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "PNSE",
+        "nama_perusahaan": "Pudjiadi & Sons Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "POLA",
+        "nama_perusahaan": "Pool Advista Finance",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "POLL",
+        "nama_perusahaan": "Pollux Properti",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "POLY",
+        "nama_perusahaan": "Asia Pacific Fibers Tbk",
+        "sektoral": [
+            "MISC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "POOL",
+        "nama_perusahaan": "Pool Advista Indonesia Tbk",
+        "sektoral": [
+            "TRADE",
+            "KOMPAS100",
+            "PEFINDO25"
+        ]
+    },
+    {
+        "kode_saham": "PORT",
+        "nama_perusahaan": "PT Nusantara Pelabuhan Handal, Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "POWR",
+        "nama_perusahaan": "Cikarang Listrindo Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "PPRE",
+        "nama_perusahaan": "Pembangunan Perumahan",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "PPRO",
+        "nama_perusahaan": "PP Properti Tbk PT",
+        "sektoral": [
+            "PROPERTY",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "PRAS",
+        "nama_perusahaan": "Prima Alloy Steel Universal Tbk",
+        "sektoral": [
+            "MISC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "PRDA",
+        "nama_perusahaan": "Prodia Widyahusada, Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "PRIM",
+        "nama_perusahaan": "Royal Prima",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "PSAB",
+        "nama_perusahaan": "J Resources Asia Pasifik Tbk",
+        "sektoral": [
+            "MINING"
+        ]
+    },
+    {
+        "kode_saham": "PSDN",
+        "nama_perusahaan": "Prasidha Aneka Niaga Tbk",
+        "sektoral": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "kode_saham": "PSKT",
+        "nama_perusahaan": "Pusako Tarinka Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "PSSI",
+        "nama_perusahaan": "Pelita Samudera",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "PTBA",
+        "nama_perusahaan": "Tambang Batubara Bukit Asam (Persero) Tbk",
+        "sektoral": [
+            "MINING",
+            "LQ45",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "PTIS",
+        "nama_perusahaan": "Indo Straits Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "PTPP",
+        "nama_perusahaan": "PP Persero",
+        "sektoral": [
+            "PROPERTY",
+            "LQ45",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "PTRO",
+        "nama_perusahaan": "Petrosea Tbk",
+        "sektoral": [
+            "MINING"
+        ]
+    },
+    {
+        "kode_saham": "PTSN",
+        "nama_perusahaan": "Sat Nusapersada Tbk",
+        "sektoral": [
+            "MISC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "PTSP",
+        "nama_perusahaan": "Pioneerindo Gourmet International Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "PUDP",
+        "nama_perusahaan": "Pudjiadi Prestige Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "PWON",
+        "nama_perusahaan": "Pakuwon Jati Tbk",
+        "sektoral": [
+            "PROPERTY",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "PYFA",
+        "nama_perusahaan": "Pyridam Farma Tbk",
+        "sektoral": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "kode_saham": "PZZA",
+        "nama_perusahaan": "PT Sarimelati Kencana",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "RAJA",
+        "nama_perusahaan": "Rukun Raharja Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "RALS",
+        "nama_perusahaan": "Ramayana Lestari Sentosa Tbk",
+        "sektoral": [
+            "TRADE",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "RANC",
+        "nama_perusahaan": "Supra Boga Lestari Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "RBMS",
+        "nama_perusahaan": "Ristia Bintang Mahkotasejati Tbk",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "RDTX",
+        "nama_perusahaan": "Roda Vivatex Tbk",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "RELI",
+        "nama_perusahaan": "Reliance Securities Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "RICY",
+        "nama_perusahaan": "Ricky Putra Globalindo Tbk",
+        "sektoral": [
+            "MISC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "RIGS",
+        "nama_perusahaan": "Rig Tenders Indonesia Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "RIMO",
+        "nama_perusahaan": "Rimo International Lestari",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "RISE",
+        "nama_perusahaan": "Jaya Sukses Makmur",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "RMBA",
+        "nama_perusahaan": "Bentoel Internasional Investama Tbk",
+        "sektoral": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "kode_saham": "RODA",
+        "nama_perusahaan": "Pikko Land Development Tbk",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "ROTI",
+        "nama_perusahaan": "Nippon Indosari Corpindo Tbk",
+        "sektoral": [
+            "CONSUMER",
+            "PEFINDO25"
+        ]
+    },
+    {
+        "kode_saham": "RUIS",
+        "nama_perusahaan": "Radiant Utama Interinsco Tbk",
+        "sektoral": [
+            "MINING"
+        ]
+    },
+    {
+        "kode_saham": "SAFE",
+        "nama_perusahaan": "Steady Safe TBK PT",
+        "sektoral": [
+            "INSFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "SAME",
+        "nama_perusahaan": "Sarana Meditama Metropolitan Tbk",
+        "sektoral": [
+            "TRADE",
+            "PEFINDO25"
+        ]
+    },
+    {
+        "kode_saham": "SAPX",
+        "nama_perusahaan": "Satria Antaran Prima",
+        "sektoral": [
+            "INSFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "SATU",
+        "nama_perusahaan": "Kota Satu",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "SCBD",
+        "nama_perusahaan": "Danayasa Arthatama Tbk",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "SCCO",
+        "nama_perusahaan": "Supreme Cable Manufacturing Commerce Tbk",
+        "sektoral": [
+            "MISC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "SCMA",
+        "nama_perusahaan": "Surya Citra Media Tbk",
+        "sektoral": [
+            "TRADE",
+            "LQ45",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "SCPI",
+        "nama_perusahaan": "Merck Sharp Dohme Pharma Tbk",
+        "sektoral": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "kode_saham": "SDMU",
+        "nama_perusahaan": "Sidomulyo Selaras Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "SDPC",
+        "nama_perusahaan": "Millennium Pharmacon International Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "SDRA",
+        "nama_perusahaan": "Bank Woori Indonesia",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "SGRO",
+        "nama_perusahaan": "Sampoerna Agro Tbk",
+        "sektoral": [
+            "AGRI"
+        ]
+    },
+    {
+        "kode_saham": "SHID",
+        "nama_perusahaan": "Hotel Sahid Jaya International Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "SHIP",
+        "nama_perusahaan": "Sillo Maritime Perdana Tbk",
+        "sektoral": [
+            "INFRASTRUC",
+            "PEFINDO25"
+        ]
+    },
+    {
+        "kode_saham": "SIAP",
+        "nama_perusahaan": "Sekawan Intipratama Tbk",
+        "sektoral": [
+            "TRADE",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "SIDO",
+        "nama_perusahaan": "Industri Jamu dan Farmasi Sido Muncul Tbk",
+        "sektoral": [
+            "CONSUMER",
+            "PEFINDO25"
+        ]
+    },
+    {
+        "kode_saham": "SILO",
+        "nama_perusahaan": "Siloam International Hospitals Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "SIMA",
+        "nama_perusahaan": "Siwani Makmur Tbk",
+        "sektoral": [
+            "TRADE",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "SIMP",
+        "nama_perusahaan": "Salim Ivomas Pratama Tbk",
+        "sektoral": [
+            "AGRI"
+        ]
+    },
+    {
+        "kode_saham": "SIPD",
+        "nama_perusahaan": "Sierad Produce Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "SKBM",
+        "nama_perusahaan": "Sekar Bumi Tbk",
+        "sektoral": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "kode_saham": "SKLT",
+        "nama_perusahaan": "Sekar Laut Tbk",
+        "sektoral": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "kode_saham": "SKRN",
+        "nama_perusahaan": "Superkrane Mitra Utama",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "SKYB",
+        "nama_perusahaan": "Skybee Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "SMAR",
+        "nama_perusahaan": "Smart Tbk",
+        "sektoral": [
+            "AGRI"
+        ]
+    },
+    {
+        "kode_saham": "SMBR",
+        "nama_perusahaan": "Semen Baturaja Persero",
+        "sektoral": [
+            "BASIC-IND",
+            "KOMPAS100",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "SMCB",
+        "nama_perusahaan": "Holcim Indonesia Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "SMDM",
+        "nama_perusahaan": "Suryamas Dutamakmur Tbk",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "SMDR",
+        "nama_perusahaan": "Samudera Indonesia Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "SMGR",
+        "nama_perusahaan": "Semen Indonesia Persero",
+        "sektoral": [
+            "BASIC-IND",
+            "LQ45",
+            "KOMPAS100",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "SMMA",
+        "nama_perusahaan": "Sinar Mas Multiartha",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "SMMT",
+        "nama_perusahaan": "Golden Eagle Energy Tbk",
+        "sektoral": [
+            "MINING"
+        ]
+    },
+    {
+        "kode_saham": "SMRA",
+        "nama_perusahaan": "Summarecon Agung Tbk",
+        "sektoral": [
+            "PROPERTY",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "SMRU",
+        "nama_perusahaan": "SMR Utama Tbk",
+        "sektoral": [
+            "MINING"
+        ]
+    },
+    {
+        "kode_saham": "SMSM",
+        "nama_perusahaan": "Selamat Sempurna Tbk",
+        "sektoral": [
+            "MISC-IND",
+            "PEFINDO25",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "SOBI",
+        "nama_perusahaan": "Sorini Agro Asia Corporindo Tbk",
+        "sektoral": [
+            "DELISTING"
+        ]
+    },
+    {
+        "kode_saham": "SOCI",
+        "nama_perusahaan": "Soechi Lines Tbk.",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "SONA",
+        "nama_perusahaan": "Sona Topas Tourism Industry Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "SOSS",
+        "nama_perusahaan": "Shield On Service",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "SPMA",
+        "nama_perusahaan": "Suparma Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "SPTO",
+        "nama_perusahaan": "PT Surya Pertiwi",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "SQBB",
+        "nama_perusahaan": "Taisho Pharmaceutical Indonesia Tbk",
+        "sektoral": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "kode_saham": "SQBI",
+        "nama_perusahaan": "Taisho Pharmaceutical Indonesia Tbk",
+        "sektoral": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "kode_saham": "SQMI",
+        "nama_perusahaan": "Renuka Coalindo Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "SRAJ",
+        "nama_perusahaan": "Sejahteraraya Anugrahjaya Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "SRIL",
+        "nama_perusahaan": "Sri Rejeki Isman Tbk",
+        "sektoral": [
+            "MISC-IND",
+            "LQ45",
+            "KOMPAS100",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "SRSN",
+        "nama_perusahaan": "Indo Acidatama Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "SRTG",
+        "nama_perusahaan": "Saratoga Investama Sedaya Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "SSIA",
+        "nama_perusahaan": "Surya Semesta Internusa Tbk",
+        "sektoral": [
+            "PROPERTY",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "SSMS",
+        "nama_perusahaan": "Sawit Sumbermas Sarana Tbk",
+        "sektoral": [
+            "AGRI",
+            "LQ45",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "SSTM",
+        "nama_perusahaan": "Sunson Textile Manufacture Tbk",
+        "sektoral": [
+            "MISC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "STAR",
+        "nama_perusahaan": "Star Petrcohem",
+        "sektoral": [
+            "MISC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "STTP",
+        "nama_perusahaan": "Siantar Top Tbk",
+        "sektoral": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "kode_saham": "SUGI",
+        "nama_perusahaan": "Sugih Energy Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "SULI",
+        "nama_perusahaan": "SLJ Global Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "SUPR",
+        "nama_perusahaan": "Solusi Tunas Pratama Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "SURE",
+        "nama_perusahaan": "Super Energy",
+        "sektoral": [
+            "MINING"
+        ]
+    },
+    {
+        "kode_saham": "SWAT",
+        "nama_perusahaan": "Sriwahana",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "TALF",
+        "nama_perusahaan": "Tunas Alfin Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "TAMU",
+        "nama_perusahaan": "PT Pelayaran Tamarin Samudra, Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "TARA",
+        "nama_perusahaan": "Sitara Propertindo Tbk.",
+        "sektoral": [
+            "PROPERTY",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "TAXI",
+        "nama_perusahaan": "Express Transindo Utama Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "TBIG",
+        "nama_perusahaan": "Tower Bersama Infrastructure Tbk",
+        "sektoral": [
+            "INFRASTRUC",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "TBLA",
+        "nama_perusahaan": "Tunas Baru Lampung Tbk",
+        "sektoral": [
+            "AGRI"
+        ]
+    },
+    {
+        "kode_saham": "TBMS",
+        "nama_perusahaan": "Tembaga Mulia Semanan Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "TCID",
+        "nama_perusahaan": "Mandom Indonesia Tbk",
+        "sektoral": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "kode_saham": "TCPI",
+        "nama_perusahaan": "Transcoal Pacific",
+        "sektoral": [
+            "INSFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "TDPM",
+        "nama_perusahaan": "Tridomain Performance",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "TELE",
+        "nama_perusahaan": "Tiphone Mobile Indonesia Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "TFCO",
+        "nama_perusahaan": "Tifico Fiber Indonesia Tbk",
+        "sektoral": [
+            "MISC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "TGKA",
+        "nama_perusahaan": "Tigaraksa Satria Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "TGRA",
+        "nama_perusahaan": "PT Terregra Asia Energy, Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "TIFA",
+        "nama_perusahaan": "Tifa Finance Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "TINS",
+        "nama_perusahaan": "Timah Persero",
+        "sektoral": [
+            "MINING",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "TIRA",
+        "nama_perusahaan": "Tira Austenite Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "TIRT",
+        "nama_perusahaan": "Tirta Mahakam Resources Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "TKGA",
+        "nama_perusahaan": "Permata Prima Sakti Tbk",
+        "sektoral": [
+            "DELISTING"
+        ]
+    },
+    {
+        "kode_saham": "TKIM",
+        "nama_perusahaan": "Pabrik Kertas Tjiwi Kimia Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "KOMPAS100",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "TLKM",
+        "nama_perusahaan": "Telkom",
+        "sektoral": [
+            "LQ45",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "TMAS",
+        "nama_perusahaan": "Pelayaran Tempuran Emas Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "TMPI",
+        "nama_perusahaan": "Sigmagold Inti Perkasa Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "TMPO",
+        "nama_perusahaan": "Tempo Inti Media",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "TNCA",
+        "nama_perusahaan": "PT Trimuda Nuansa",
+        "sektoral": [
+            "INSFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "TOBA",
+        "nama_perusahaan": "Toba Bara Sejahtra Tbk",
+        "sektoral": [
+            "MINING"
+        ]
+    },
+    {
+        "kode_saham": "TOPS",
+        "nama_perusahaan": "PT Totalindo Eka Persada, Tbk",
+        "sektoral": [
+            "PROPERTY",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "TOTL",
+        "nama_perusahaan": "Total Bangun Persada Tbk",
+        "sektoral": [
+            "PROPERTY",
+            "PEFINDO25"
+        ]
+    },
+    {
+        "kode_saham": "TOTO",
+        "nama_perusahaan": "Surya Toto Indonesia Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "TOWR",
+        "nama_perusahaan": "Sarana Menara Nusantara Tbk",
+        "sektoral": [
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "TPIA",
+        "nama_perusahaan": "Chandra Asri Petrochemical Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "LQ45",
+            "KOMPAS100",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "TPMA",
+        "nama_perusahaan": "Trans Power Marine Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "TRAM",
+        "nama_perusahaan": "Trada Maritime Tbk",
+        "sektoral": [
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "TRIL",
+        "nama_perusahaan": "Triwira Insanlestari Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "TRIM",
+        "nama_perusahaan": "Trimegah Securities Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "TRIO",
+        "nama_perusahaan": "Trikomsel Oke Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "TRIS",
+        "nama_perusahaan": "Trisula International Tbk",
+        "sektoral": [
+            "MISC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "TRST",
+        "nama_perusahaan": "Trias Sentosa Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "TRUB",
+        "nama_perusahaan": "Truba Alam Manunggal Engineering Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "TRUK",
+        "nama_perusahaan": "Guna Timur Raya",
+        "sektoral": [
+            "INSFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "TRUS",
+        "nama_perusahaan": "Trust Finance Indonesia Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "TSPC",
+        "nama_perusahaan": "Tempo Scan Pacific Tbk",
+        "sektoral": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "kode_saham": "TUGU",
+        "nama_perusahaan": "Asuransi Tugu Pratama",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "TURI",
+        "nama_perusahaan": "Tunas Ridean Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "ULTJ",
+        "nama_perusahaan": "Ultra Jaya Milk Industry Trading Company Tbk",
+        "sektoral": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "kode_saham": "UNIC",
+        "nama_perusahaan": "Unggul Indah Cahaya Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "UNIT",
+        "nama_perusahaan": "Nusantara Inti Corpora Tbk",
+        "sektoral": [
+            "MISC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "UNSP",
+        "nama_perusahaan": "Bakrie Sumatera Plantations",
+        "sektoral": [
+            "AGRI"
+        ]
+    },
+    {
+        "kode_saham": "UNTR",
+        "nama_perusahaan": "United Tractors Tbk",
+        "sektoral": [
+            "TRADE",
+            "LQ45",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "UNTX",
+        "nama_perusahaan": "Unitex Tbk",
+        "sektoral": [
+            "DELISTING"
+        ]
+    },
+    {
+        "kode_saham": "UNVR",
+        "nama_perusahaan": "Unilever Indonesia Tbk",
+        "sektoral": [
+            "CONSUMER",
+            "LQ45",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "VICO",
+        "nama_perusahaan": "Victoria Investama Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "VINS",
+        "nama_perusahaan": "Victoria Insurance Tbk PT",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "VIVA",
+        "nama_perusahaan": "Visi Media Asia Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "VOKS",
+        "nama_perusahaan": "Voksel Electric Tbk",
+        "sektoral": [
+            "MISC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "VRNA",
+        "nama_perusahaan": "Verena Multi Finance Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "WAPO",
+        "nama_perusahaan": "Wahana Pronatural Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "WEGE",
+        "nama_perusahaan": "Wijaya Karya Bangunan Gedung",
+        "sektoral": [
+            "PROPERTY"
+        ]
+    },
+    {
+        "kode_saham": "WEHA",
+        "nama_perusahaan": "Panorama Transportasi Tbk",
+        "sektoral": [
+            "INSFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "WICO",
+        "nama_perusahaan": "Wicaksana Overseas International Tbk",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "WIIM",
+        "nama_perusahaan": "Wismilak Inti Makmur Tbk",
+        "sektoral": [
+            "CONSUMER"
+        ]
+    },
+    {
+        "kode_saham": "WIKA",
+        "nama_perusahaan": "Wijaya Karya (Persero) Tbk",
+        "sektoral": [
+            "PROPERTY",
+            "LQ45",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "WINS",
+        "nama_perusahaan": "Wintermar Offshore Marine Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "WOMF",
+        "nama_perusahaan": "Wahana Ottomitra Multiartha Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "WOOD",
+        "nama_perusahaan": "PT Integra Indocabinet, Tbk",
+        "sektoral": [
+            "CONSUMER",
+            "PEFINDO25"
+        ]
+    },
+    {
+        "kode_saham": "WSBP",
+        "nama_perusahaan": "PT Waskita Beton Precast Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "LQ45",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "WSKT",
+        "nama_perusahaan": "Waskita Karya (Persero) Tbk",
+        "sektoral": [
+            "PROPERTY",
+            "LQ45",
+            "KOMPAS100"
+        ]
+    },
+    {
+        "kode_saham": "WTON",
+        "nama_perusahaan": "Wijaya Karya Beton Tbk.",
+        "sektoral": [
+            "BASIC-IND",
+            "KOMPAS100",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "YELO",
+        "nama_perusahaan": "Yelooo Integra",
+        "sektoral": [
+            "TRADE"
+        ]
+    },
+    {
+        "kode_saham": "YPAS",
+        "nama_perusahaan": "Yanaprima Hastapersada Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ]
+    },
+    {
+        "kode_saham": "YULE",
+        "nama_perusahaan": "Yulie Sekurindo Tbk",
+        "sektoral": [
+            "FINANCE"
+        ]
+    },
+    {
+        "kode_saham": "ZBRA",
+        "nama_perusahaan": "Zebra Nusantara Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ]
+    },
+    {
+        "kode_saham": "ZINC",
+        "nama_perusahaan": "Kapuas Prima Coal",
+        "sektoral": [
+            "MINING"
+        ]
+    }
+]
