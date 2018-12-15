@@ -1,4 +1,5 @@
 from flask import Flask, jsonify, request
+from flask import stream_with_context, request, Response
 import json
 import random
 import datetime
@@ -27,6 +28,7 @@ def generate_response(size):
 @app.route('/getstream', methods=['GET'])
 def stream_response():
     return jsonify(generate_response(int(request.args.get('size'))))
+
 
 if __name__ == "__main__":
     app.run(host='0.0.0.0', port=4992, debug=True)

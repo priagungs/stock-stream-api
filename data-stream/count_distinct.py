@@ -1,25 +1,19 @@
 import json, time
-import urlConnection as conn
+import stock_stream
+from stock_stream import current_stock
 
 
 # konstanta ini didapat dari data.json
 nbStock = 632
 nbSector = 13
-sectorArr = [
-    'property',
-    'trade',
-    'misc-ind',
-    'consumer',
-    'finance',
-    'infrastruc',
-    'agri',
-    'mining',
-    'basic-ind',
-    'lq45',
-    'kompas100',
-    'pefindo25',
-    'manufactur',
-    'delisting']
+sectorArr = ['property','trade','misc-ind','consumer','finance','infrastruc','agri','mining','basic-ind','lq45','kompas100','pefindo25','manufactur','delisting']
+
+
+def thread_stock_stream():
+    stock_stream.run_stream()
+
+
+# def thread_mining():
 
 
 # mengembalikan kode binary yang bersesuaian dengan sectorName
@@ -53,7 +47,8 @@ def countingDistinctElement(option, windowSize):
 
 
 if __name__ == "__main__": 
-    print(countingDistinctElement('sektoral',16))
+    print(current_stock)
+    # print(countingDistinctElement('sektoral',16))
     # with open('../data-sample.json') as f:
     #     data = json.load(f)
     # count = countUniqStreams(data)
