@@ -1,5 +1,5 @@
 import urllib.request as req
-import json, time, math
+import json, time, math, random, pprint, copy
 
 # GLOBAL SECTION
 WINDOW_SIZE = 1000  # banyaknya item stock yang diambil dari stream
@@ -10,8 +10,8 @@ def init():
     init_property_stock_mask()
 
 # mengambil 1 item stock dari stream
-def get_stock_item():
-    stock_url = "http://localhost:4992/getstream?size=1"
+def get_stock_item(size=1):
+    stock_url = "http://localhost:4992/getstream?size=" + str(size)
     with req.urlopen(stock_url) as url:
         data = json.loads(url.read().decode())
     return data
@@ -92,11 +92,87 @@ def counting_distinct_stock():
 
 
 # COUNTING ITEMSET SECTION
+MAX_BASKET_SIZE = 10    # maksimum banyaknya saham yang dapat dibeli pada waktu yang sama
+SUPPORT_VALUE = 10      # support value untuk menentukan apakah item/itemset frequent
+baskets = []
 
+# mendapatkan transaksi saham pada waktu yang relatif sama dari datastream
+def get_baskets():
+    global baskets
+    for i in range(WINDOW_SIZE):
+        basket_size = random.randrange(MAX_BASKET_SIZE) + 1
+        stocks = get_stock_item(basket_size)
+        basket = []
+        for stock in stocks:
+            if (stock['kode_saham'] not in basket):
+                basket.append(stock['kode_saham'])
+        baskets.append(basket)
+
+
+# mendapatkan frequent_items dengan ukuran frequent_items sebesar item_size
+def get_frequent_items(item_size):
+    global baskets
+    frequent_items = []
+    frequent_count = []
+    candidate_items = []
+    candidate_count = []
+
+    if (item_size == 1):
+        for basket in baskets:
+            for stock_code in basket:
+                if stock_code in candidate_items:
+                    idx = candidate_items.index(stock_code)
+                    candidate_count[idx] += 1
+                else:
+                    candidate_items.append(stock_code)
+                    candidate_count.append(1)
+    else:
+        old_frequent_items,old_frequent_count = get_frequent_items(item_size-1)
+        if (item_size == 2):
+            for i in range(0,len(old_frequent_items)-1):
+                for j in range(i+1,len(old_frequent_items)):
+                    pair_items = [old_frequent_items[i],old_frequent_items[j]]
+                    candidate_items.append(pair_items)
+                    candidate_count.append(0)
+                    for basket in baskets:
+                        if set(pair_items) < set(basket):
+                            candidate_count[-1] += 1
+        else:
+            for i in range(0,len(old_frequent_items)-1):
+                for j in range(i+1,len(old_frequent_items)):
+                    item1,item2 = old_frequent_items[i],old_frequent_items[j]
+                    if (len(set(item1) & set(item2)) == 1):
+                        pair_items = list(set(item1).union(item2))
+                        candidate_items.append(pair_items)
+                        candidate_count.append(0)
+                        for basket in baskets:
+                            if set(pair_items) < set(basket):
+                                candidate_count[-1] += 1
+
+    for i in range(len(candidate_items)):
+        if candidate_count[i] >= SUPPORT_VALUE:
+            frequent_items.append(candidate_items[i])
+            frequent_count.append(candidate_count[i])
+
+    return frequent_items,frequent_count
+
+# mendapatkan maximum frequent itemset
 def counting_itemset_stock():
-    pass
+    item_size = 1
+    frequent_items = []
+    frequent_count = []
 
+    stop = False
+    while not stop:
+        x,y = get_frequent_items(item_size)
+        if len(x) > 0:
+            item_size += 1
+            frequent_items = copy.copy(x)
+            print(item_size)
+        else:
+            stop = True
+
+    return frequent_items
 
 if __name__ == '__main__':
     init()
-    print(counting_distinct_stock())
