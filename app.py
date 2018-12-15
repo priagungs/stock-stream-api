@@ -29,6 +29,13 @@ def generate_response(size):
 def stream_response():
     return jsonify(generate_response(int(request.args.get('size'))))
 
+@app.route('/time')
+def doyouhavethetime():
+    def generate():
+        while True:
+            yield "{}\n".format(datetime.now().isoformat())
+            time.sleep(1)
+    return Response(generate(), mimetype='text/plain')
 
 if __name__ == "__main__":
     app.run(host='0.0.0.0', port=4992, debug=True)
