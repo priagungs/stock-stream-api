@@ -17,7 +17,6 @@ def get_stock_item():
     return data
 
 
-
 # SAMPLING SECTION
 # mengambil sample sebanyak $percentage % dari stream yang diterima
 def sampling_stock(percentage):
@@ -28,7 +27,6 @@ def sampling_stock(percentage):
         if (stock_hash < percentage):
             sample.append(stock)
     return sample
-
 
 
 # FILTER SECTION
@@ -71,7 +69,6 @@ def filtering_stock(stock_code):
     return status
 
 
-
 # COUNTING DISTINCT ELEMENT SECTION
 # hash function yang digunakan untuk flajolet martin approach, keluaran berupa binary string
 def flajolet_martin_hash(stock_code):
@@ -92,6 +89,9 @@ def counting_distinct_stock():
         hash_result = flajolet_martin_hash(stock['kode_saham'])
         maxTrailingZeros = max(maxTrailingZeros,trailing_zeros(hash_result))
     return 2**maxTrailingZeros
+
+
+# COUNTING ITEMSET SECTION
 
 def counting_itemset_stock():
     pass
