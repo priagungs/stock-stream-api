@@ -1,10 +1,12 @@
 import random 
+import json
+from pprint import pprint
 
-def printArray(stream,n): 
-    for i in range(n): 
-        print(stream[i]) 
+def printSamples(samples): 
+    for i in range(len(samples)): 
+        print(samples[i]) 
   
-def selectKItems(stream, n, k): 
+def samplingStreams(stream, n, k): 
         i=0;  
 
         samples = [0]*k 
@@ -18,7 +20,12 @@ def selectKItems(stream, n, k):
                 samples[j] = stream[i] 
             i+=1
            
-        printArray(samples, k)
+        return samples
   
 if __name__ == "__main__": 
-    
+    with open('data.json') as f:
+        data = json.load(f)
+    n = len(data) 
+    k = 5
+    samples = samplingStreams(data, n, k)
+    printSamples(samples)
