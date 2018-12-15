@@ -23,7 +23,7 @@ def generate_response(size):
     return sorted(response, key=lambda element: element['timestamp'], reverse=True)
 
 
-
+# usage: localhost/4992/getstream?size='number'
 @app.route('/getstream', methods=['GET'])
 def stream_response():
     return jsonify(generate_response(int(request.args.get('size'))))
