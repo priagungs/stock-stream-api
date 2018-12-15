@@ -7,8 +7,6 @@ def printSamples(samples):
         print(samples[i]) 
   
 def samplingStreams(stream, n, k): 
-        i=0;  
-
         samples = [0]*k 
         for i in range(k): 
             samples[i] = stream[i]
@@ -23,7 +21,7 @@ def samplingStreams(stream, n, k):
         return samples
   
 if __name__ == "__main__": 
-    with open('data.json') as f:
+    with open('../data.json') as f:
         data = json.load(f)
     n = len(data) 
     k = 5
