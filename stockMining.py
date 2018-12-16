@@ -6,8 +6,8 @@ WINDOW_SIZE = 1000  # banyaknya item stock yang diambil dari stream
 
 # inisialisasi data pada program secara umum
 def init():
-    init_property_stock_code()
-    init_property_stock_mask()
+    init_trade_stock_code()
+    init_trade_stock_mask()
 
 # mengambil 1 item stock dari stream
 def get_stock_item(size=1):
@@ -32,38 +32,38 @@ def sampling_stock(percentage):
 # FILTER SECTION
 BIT_MASK_SIZE = 1024        # ukuran memori tersedia untuk bit array bloom filter
 NB_HASH_FUNCTION = 3        # banyaknya hash function digunakan pada bloom filter
-property_stock_code = []    # daftar stock yang tergolong sector property
-property_stock_mask = []    # bit array yang akan digunakan untuk bloom filter
+trade_stock_code = []       # daftar stock yang tergolong sector trade
+trade_stock_mask = []       # bit array yang akan digunakan untuk bloom filter
 
 # menginisialisasi stock yang tergolong sektor property dari data.json
-def init_property_stock_code():
-    global property_stock_code
+def init_trade_stock_code():
+    global trade_stock_code
     with open("data.json") as file:
         raw = file.read()
         data = json.loads(raw)
         for stock in data:
-            if ('PROPERTY' in stock['sektoral']):
-                property_stock_code.append(stock['kode_saham'])
+            if ('TRADE' in stock['sektoral']):
+                trade_stock_code.append(stock['kode_saham'])
 
 # fungsi hash yang digunakan untuk bloom filter
 def bloom_filter_hash(stock_code, factor):
     return (abs(hash(stock_code)) * factor) % BIT_MASK_SIZE
 
-# menginisialisasi bit array dengan hash dari stock dalam property_stock_code
-def init_property_stock_mask():
-    global property_stock_mask
-    property_stock_mask = [0 for x in range(BIT_MASK_SIZE)]
-    for stock_code in property_stock_code:
+# menginisialisasi bit array dengan hash dari stock dalam trade_stock_code
+def init_trade_stock_mask():
+    global trade_stock_mask
+    trade_stock_mask = [0 for x in range(BIT_MASK_SIZE)]
+    for stock_code in trade_stock_code:
         for factor in range(1,NB_HASH_FUNCTION+1):
             idx = bloom_filter_hash(stock_code,factor)
-            property_stock_mask[idx] = 1
+            trade_stock_mask[idx] = 1
 
 # filtering dengan bloom filter untuk menentukan apakah stock bersektor property atau tidak
 def filtering_stock(stock_code):
     status = True
     for factor in range(1,NB_HASH_FUNCTION+1):
         idx = bloom_filter_hash(stock_code,factor)
-        if (property_stock_mask[idx] == 0):
+        if (trade_stock_mask[idx] == 0):
             status = False
             break
     return status
