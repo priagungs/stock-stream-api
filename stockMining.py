@@ -2,12 +2,13 @@ import urllib.request as req
 import json, time, math, random, pprint, copy, sys
 
 # GLOBAL SECTION
-WINDOW_SIZE = 1000  # banyaknya item stock yang diambil dari stream
+WINDOW_SIZE = 1024  # banyaknya item stock yang diambil dari stream
 
 # inisialisasi data pada program secara umum
 def init():
     init_trade_stock_code()
     init_trade_stock_mask()
+    get_baskets(100)
 
 # mengambil 1 item stock dari stream
 def get_stock_item(size=1):
@@ -91,18 +92,20 @@ def counting_distinct_stock():
         stock = get_stock_item()[0]
         hash_result = flajolet_martin_hash(stock['kode_saham'])
         maxTrailingZeros = max(maxTrailingZeros,trailing_zeros(hash_result))
+        b = "Progress: " + str(i) + "/" + str(WINDOW_SIZE)
+        print (b, end="\r")
     return 2**maxTrailingZeros
 
 
 # COUNTING ITEMSET SECTION
 MAX_BASKET_SIZE = 10    # maksimum banyaknya saham yang dapat dibeli pada waktu yang sama
-SUPPORT_VALUE = 10      # support value untuk menentukan apakah item/itemset frequent
+SUPPORT_VALUE = 4      # support value untuk menentukan apakah item/itemset frequent
 baskets = []
 
 # mendapatkan transaksi saham pada waktu yang relatif sama dari datastream
-def get_baskets():
+def get_baskets(nb_basket):
     global baskets
-    for i in range(WINDOW_SIZE):
+    for i in range(nb_basket):
         basket_size = random.randrange(MAX_BASKET_SIZE) + 1
         stocks = get_stock_item(basket_size)
         basket = []
@@ -134,6 +137,8 @@ def get_frequent_items(item_size):
         if (item_size == 2):
             for i in range(0,len(old_frequent_items)-1):
                 for j in range(i+1,len(old_frequent_items)):
+                    b = "Current inner loop progress: " + str(i) + "/" + str(len(old_frequent_items)-1)
+                    print (b,end='\r')
                     pair_items = [old_frequent_items[i],old_frequent_items[j]]
                     candidate_items.append(pair_items)
                     candidate_count.append(0)
@@ -143,6 +148,8 @@ def get_frequent_items(item_size):
         else:
             for i in range(0,len(old_frequent_items)-1):
                 for j in range(i+1,len(old_frequent_items)):
+                    b = "Current inner loop progress: " + str(i) + "/" + str(len(old_frequent_items)-1)
+                    print (b,end='\r')
                     item1,item2 = old_frequent_items[i],old_frequent_items[j]
                     if (len(set(item1) & set(item2)) == 1):
                         pair_items = list(set(item1).union(item2))
@@ -157,6 +164,9 @@ def get_frequent_items(item_size):
             frequent_items.append(candidate_items[i])
             frequent_count.append(candidate_count[i])
 
+        b = "Current pass progress: " + str(i) + "/" + str(len(candidate_items)-1)
+        print (b,end='\r')
+        time.sleep(0.001)
     return frequent_items,frequent_count
 
 # mendapatkan maximum frequent itemset
@@ -171,7 +181,7 @@ def counting_itemset_stock():
         if len(x) > 0:
             item_size += 1
             frequent_items = copy.copy(x)
-            print(item_size)
+            print('')
         else:
             stop = True
 
@@ -195,5 +205,20 @@ if __name__ == '__main__':
                 parsed = json.loads(json.dumps(sample))
                 file.write(json.dumps(parsed,indent=4))
             print("Sample has been write in sample.json")
+        elif (action == 2):
+            stock_code = input("<< stock code: ")
+            stock_status = filtering_stock(stock_code)
+            if (stock_status):
+                print("Stock code",stock_code,"is in sector TRADE")
+            else:
+                print("Stock code",stock_code,"is not in sector TRADE")
+        elif (action == 3):
+            print("Count distinct stock datastream start...")
+            nb_distinct = counting_distinct_stock()
+            print("There is",nb_distinct,"distinct stock found")
+        else:
+            print("Count frequent itemset stock datastream start...")
+            frequent_items = counting_itemset_stock()
+            print("Frequent itemset found: ", frequent_items)
     else:
         print("Failed, action input should be in range [1,4]")
