@@ -1,0 +1,177 @@
+[
+    {
+        "avg": 329.27,
+        "high": 435,
+        "kode_saham": "MIRA",
+        "last": 413,
+        "low": 324,
+        "nama_perusahaan": "Mitra International Resources Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ],
+        "timestamp": "Sun, 16 Dec 2018 10:01:54 GMT",
+        "value": 192971.69
+    },
+    {
+        "avg": 1266.6,
+        "high": 1467,
+        "kode_saham": "PWON",
+        "last": 1181,
+        "low": 378,
+        "nama_perusahaan": "Pakuwon Jati Tbk",
+        "sektoral": [
+            "PROPERTY",
+            "KOMPAS100"
+        ],
+        "timestamp": "Sun, 16 Dec 2018 10:02:54 GMT",
+        "value": 726530.35
+    },
+    {
+        "avg": 986.4,
+        "high": 1253,
+        "kode_saham": "PWON",
+        "last": 1226,
+        "low": 877,
+        "nama_perusahaan": "Pakuwon Jati Tbk",
+        "sektoral": [
+            "PROPERTY",
+            "KOMPAS100"
+        ],
+        "timestamp": "Sun, 16 Dec 2018 09:19:54 GMT",
+        "value": 550313.67
+    },
+    {
+        "avg": 764.92,
+        "high": 952,
+        "kode_saham": "INDS",
+        "last": 580,
+        "low": 19,
+        "nama_perusahaan": "Indospring Tbk",
+        "sektoral": [
+            "MISC-IND",
+            "MANUFACTUR"
+        ],
+        "timestamp": "Sun, 16 Dec 2018 09:06:54 GMT",
+        "value": 511675.72
+    },
+    {
+        "avg": 779.45,
+        "high": 892,
+        "kode_saham": "MINA",
+        "last": 825,
+        "low": 206,
+        "nama_perusahaan": "PT Sanurhasta Mitra, Tbk",
+        "sektoral": [
+            "TRADE"
+        ],
+        "timestamp": "Sun, 16 Dec 2018 09:37:54 GMT",
+        "value": 696917.99
+    },
+    {
+        "avg": 1348.18,
+        "high": 1544,
+        "kode_saham": "CITA",
+        "last": 1426,
+        "low": 998,
+        "nama_perusahaan": "Cita Mineral Investindo Tbk",
+        "sektoral": [
+            "MINING"
+        ],
+        "timestamp": "Sun, 16 Dec 2018 09:20:54 GMT",
+        "value": 722844.87
+    },
+    {
+        "avg": 469.41,
+        "high": 1305,
+        "kode_saham": "INDS",
+        "last": 400,
+        "low": 303,
+        "nama_perusahaan": "Indospring Tbk",
+        "sektoral": [
+            "MISC-IND",
+            "MANUFACTUR"
+        ],
+        "timestamp": "Sun, 16 Dec 2018 09:45:54 GMT",
+        "value": 37313.5
+    },
+    {
+        "avg": 387.52,
+        "high": 451,
+        "kode_saham": "MIRA",
+        "last": 339,
+        "low": 262,
+        "nama_perusahaan": "Mitra International Resources Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ],
+        "timestamp": "Sun, 16 Dec 2018 09:27:54 GMT",
+        "value": 63212.64
+    },
+    {
+        "avg": 1486.31,
+        "high": 1549,
+        "kode_saham": "MIRA",
+        "last": 1380,
+        "low": 1323,
+        "nama_perusahaan": "Mitra International Resources Tbk",
+        "sektoral": [
+            "INFRASTRUC"
+        ],
+        "timestamp": "Sun, 16 Dec 2018 09:41:54 GMT",
+        "value": 68508.49
+    },
+    {
+        "avg": 1758.25,
+        "high": 1872,
+        "kode_saham": "PWON",
+        "last": 1220,
+        "low": 203,
+        "nama_perusahaan": "Pakuwon Jati Tbk",
+        "sektoral": [
+            "PROPERTY",
+            "KOMPAS100"
+        ],
+        "timestamp": "Sun, 16 Dec 2018 09:33:55 GMT",
+        "value": 987789.89
+    },
+    {
+        "avg": 72.61,
+        "high": 143,
+        "kode_saham": "CITA",
+        "last": 129,
+        "low": 0,
+        "nama_perusahaan": "Cita Mineral Investindo Tbk",
+        "sektoral": [
+            "MINING"
+        ],
+        "timestamp": "Sun, 16 Dec 2018 09:10:55 GMT",
+        "value": 246108.92
+    },
+    {
+        "avg": 841.19,
+        "high": 1026,
+        "kode_saham": "PDES",
+        "last": 731,
+        "low": 392,
+        "nama_perusahaan": "Destinasi Tirta Nusantara Tbk",
+        "sektoral": [
+            "TRADE"
+        ],
+        "timestamp": "Sun, 16 Dec 2018 09:56:55 GMT",
+        "value": 712468.75
+    },
+    {
+        "avg": 97.98,
+        "high": 103,
+        "kode_saham": "PWON",
+        "last": 99,
+        "low": 85,
+        "nama_perusahaan": "Pakuwon Jati Tbk",
+        "sektoral": [
+            "PROPERTY",
+            "KOMPAS100"
+        ],
+        "timestamp": "Sun, 16 Dec 2018 09:23:55 GMT",
+        "value": 151409.94
+    }
+]

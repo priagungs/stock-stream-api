@@ -1,5 +1,5 @@
 import urllib.request as req
-import json, time, math, random, pprint, copy
+import json, time, math, random, pprint, copy, sys
 
 # GLOBAL SECTION
 WINDOW_SIZE = 1000  # banyaknya item stock yang diambil dari stream
@@ -26,6 +26,9 @@ def sampling_stock(percentage):
         stock_hash = abs(hash(stock['kode_saham'])) % 100
         if (stock_hash < percentage):
             sample.append(stock)
+
+        b = "Progress: " + str(i) + "/" + str(WINDOW_SIZE)
+        print (b, end="\r")
     return sample
 
 
@@ -58,7 +61,7 @@ def init_trade_stock_mask():
             idx = bloom_filter_hash(stock_code,factor)
             trade_stock_mask[idx] = 1
 
-# filtering dengan bloom filter untuk menentukan apakah stock bersektor property atau tidak
+# filtering dengan bloom filter untuk menentukan apakah stock bersektor trade atau tidak
 def filtering_stock(stock_code):
     status = True
     for factor in range(1,NB_HASH_FUNCTION+1):
@@ -176,3 +179,21 @@ def counting_itemset_stock():
 
 if __name__ == '__main__':
     init()
+    print("Mining data stream, choose action: ")
+    print("1. Sampling datastream")
+    print("2. Filtering datastream")
+    print("3. Count distinct element")
+    print("4. Count frequent itemsets")
+    action = int(input("<< action: "))
+
+    if (1 <= action and action <= 4):
+        if (action == 1):
+            percentage = int(input("<< percentage: "))
+            print("Sampling stock datastream start...")
+            sample = sampling_stock(percentage)
+            with open('sample.json', 'w') as file:
+                parsed = json.loads(json.dumps(sample))
+                file.write(json.dumps(parsed,indent=4))
+            print("Sample has been write in sample.json")
+    else:
+        print("Failed, action input should be in range [1,4]")
