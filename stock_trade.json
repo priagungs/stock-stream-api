@@ -1,0 +1,15 @@
+[
+    {
+        "avg": 860.29,
+        "high": 1163,
+        "kode_saham": "MICE",
+        "last": 944,
+        "low": 421,
+        "nama_perusahaan": "Multi Indocitra Tbk",
+        "sektoral": [
+            "TRADE"
+        ],
+        "timestamp": "Tue, 18 Dec 2018 11:27:49 GMT",
+        "value": 21937.77
+    }
+]

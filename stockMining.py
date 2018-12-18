@@ -3,12 +3,14 @@ import json, time, math, random, pprint, copy, sys
 
 # GLOBAL SECTION
 WINDOW_SIZE = 1024  # banyaknya item stock yang diambil dari stream
+CURSOR_UP_ONE = '\x1b[1A'
+ERASE_LINE = '\x1b[2K'
 
 # inisialisasi data pada program secara umum
 def init():
     init_trade_stock_code()
     init_trade_stock_mask()
-    get_baskets(100)
+    get_baskets(800)
 
 # mengambil 1 item stock dari stream
 def get_stock_item(size=1):
@@ -17,6 +19,16 @@ def get_stock_item(size=1):
         data = json.loads(url.read().decode())
     return data
 
+def print_progress(current, maxim):
+    percentage = current * 100 / maxim + 1
+    bar = percentage / 2
+    print('Progress: ', str(int(percentage)), "% ", end="")
+    print('#' * int(bar));
+
+def clear_line(nb_line):
+    for i in range(nb_line):
+        sys.stdout.write(CURSOR_UP_ONE)
+        sys.stdout.write(ERASE_LINE)
 
 # SAMPLING SECTION
 # mengambil sample sebanyak $percentage % dari stream yang diterima
@@ -25,11 +37,14 @@ def sampling_stock(percentage):
     for i in range(WINDOW_SIZE):
         stock = get_stock_item()[0]
         stock_hash = abs(hash(stock['kode_saham'])) % 100
+        print('Stock code: ', stock['kode_saham'], end=" ")
         if (stock_hash < percentage):
             sample.append(stock)
-
-        b = "Progress: " + str(i) + "/" + str(WINDOW_SIZE)
-        print (b, end="\r")
+            print('- Action: TAKE')
+        else:
+            print('- Action: DROP')
+        print_progress(i,WINDOW_SIZE);
+        clear_line(2)
     return sample
 
 
@@ -63,14 +78,27 @@ def init_trade_stock_mask():
             trade_stock_mask[idx] = 1
 
 # filtering dengan bloom filter untuk menentukan apakah stock bersektor trade atau tidak
-def filtering_stock(stock_code):
-    status = True
-    for factor in range(1,NB_HASH_FUNCTION+1):
-        idx = bloom_filter_hash(stock_code,factor)
-        if (trade_stock_mask[idx] == 0):
-            status = False
-            break
-    return status
+def filtering_stock():
+    for i in range(WINDOW_SIZE):
+        stock = get_stock_item()[0]
+        stock_code = stock['kode_saham']
+        status = True
+        for factor in range(1,NB_HASH_FUNCTION+1):
+            idx = bloom_filter_hash(stock_code,factor)
+            if (trade_stock_mask[idx] == 0):
+                status = False
+                break
+        trade_stock = []
+        not_trade_stock = []
+        if (status):
+            print("Stock code: ", stock_code, " - Sector: TRADE")
+            trade_stock.append(stock)
+        else:
+            print("Stock code: ", stock_code, " - Sector: NON TRADE")
+            not_trade_stock.append(stock)
+        print_progress(i,WINDOW_SIZE)
+        clear_line(2)
+    return [trade_stock,not_trade_stock]
 
 
 # COUNTING DISTINCT ELEMENT SECTION
@@ -92,14 +120,15 @@ def counting_distinct_stock():
         stock = get_stock_item()[0]
         hash_result = flajolet_martin_hash(stock['kode_saham'])
         maxTrailingZeros = max(maxTrailingZeros,trailing_zeros(hash_result))
-        b = "Progress: " + str(i) + "/" + str(WINDOW_SIZE)
-        print (b, end="\r")
+        print("Stock code: ", stock['kode_saham'], " - Current distinct: ", 2 ** maxTrailingZeros)
+        print_progress(i,WINDOW_SIZE)
+        clear_line(2)
     return 2**maxTrailingZeros
 
 
 # COUNTING ITEMSET SECTION
 MAX_BASKET_SIZE = 10    # maksimum banyaknya saham yang dapat dibeli pada waktu yang sama
-SUPPORT_VALUE = 4      # support value untuk menentukan apakah item/itemset frequent
+SUPPORT_VALUE = 3       # support value untuk menentukan apakah item/itemset frequent
 baskets = []
 
 # mendapatkan transaksi saham pada waktu yang relatif sama dari datastream
@@ -137,8 +166,8 @@ def get_frequent_items(item_size):
         if (item_size == 2):
             for i in range(0,len(old_frequent_items)-1):
                 for j in range(i+1,len(old_frequent_items)):
-                    b = "Current inner loop progress: " + str(i) + "/" + str(len(old_frequent_items)-1)
-                    print (b,end='\r')
+                    print_progress(i,len(old_frequent_items))
+                    clear_line(1)
                     pair_items = [old_frequent_items[i],old_frequent_items[j]]
                     candidate_items.append(pair_items)
                     candidate_count.append(0)
@@ -148,25 +177,31 @@ def get_frequent_items(item_size):
         else:
             for i in range(0,len(old_frequent_items)-1):
                 for j in range(i+1,len(old_frequent_items)):
-                    b = "Current inner loop progress: " + str(i) + "/" + str(len(old_frequent_items)-1)
-                    print (b,end='\r')
+                    print_progress(i,len(old_frequent_items))
+                    clear_line(1)
                     item1,item2 = old_frequent_items[i],old_frequent_items[j]
                     if (len(set(item1) & set(item2)) == 1):
                         pair_items = list(set(item1).union(item2))
-                        candidate_items.append(pair_items)
-                        candidate_count.append(0)
-                        for basket in baskets:
-                            if set(pair_items) < set(basket):
-                                candidate_count[-1] += 1
-
+                        status = True
+                        for i in range(len(pair_items)):
+                            sub_pair_items = pair_items[:i] + pair_items[i+1:]
+                            if not set(sub_pair_items) < set(item1):
+                                status = False
+                                break
+                        if (status):
+                            candidate_items.append(pair_items)
+                            candidate_count.append(0)
+                            for basket in baskets:
+                                if set(pair_items) < set(basket):
+                                    candidate_count[-1] += 1
     for i in range(len(candidate_items)):
         if candidate_count[i] >= SUPPORT_VALUE:
             frequent_items.append(candidate_items[i])
             frequent_count.append(candidate_count[i])
 
-        b = "Current pass progress: " + str(i) + "/" + str(len(candidate_items)-1)
-        print (b,end='\r')
-        time.sleep(0.001)
+        print_progress(i,len(candidate_items))
+        clear_line(1)
+    
     return frequent_items,frequent_count
 
 # mendapatkan maximum frequent itemset
@@ -179,9 +214,9 @@ def counting_itemset_stock():
     while not stop:
         x,y = get_frequent_items(item_size)
         if len(x) > 0:
+            print('Current frequent items length: ', item_size)
             item_size += 1
             frequent_items = copy.copy(x)
-            print('')
         else:
             stop = True
 
@@ -189,29 +224,33 @@ def counting_itemset_stock():
 
 if __name__ == '__main__':
     init()
-    print("Mining data stream, choose action: ")
-    print("1. Sampling datastream")
-    print("2. Filtering datastream")
+    print("Stock datastream mining, choose action: ")
+    print("1. Sampling")
+    print("2. Filtering")
     print("3. Count distinct element")
     print("4. Count frequent itemsets")
     action = int(input("<< action: "))
 
     if (1 <= action and action <= 4):
         if (action == 1):
-            percentage = int(input("<< percentage: "))
-            print("Sampling stock datastream start...")
+            percentage = int(input("<< input sampling percentage: "))
+            print("\nSampling stock datastream start...")
             sample = sampling_stock(percentage)
             with open('sample.json', 'w') as file:
                 parsed = json.loads(json.dumps(sample))
                 file.write(json.dumps(parsed,indent=4))
-            print("Sample has been write in sample.json")
+            print("Sample has been wroten in sample.json")
         elif (action == 2):
-            stock_code = input("<< stock code: ")
-            stock_status = filtering_stock(stock_code)
-            if (stock_status):
-                print("Stock code",stock_code,"is in sector TRADE")
-            else:
-                print("Stock code",stock_code,"is not in sector TRADE")
+            print("\nFiltering TRADE and NOT-TRADE stock datastream start...")
+            trade_stock, not_trade_stock = filtering_stock()
+            with open('stock_trade.json','w') as file:
+                parsed = json.loads(json.dumps(trade_stock))
+                file.write(json.dumps(parsed,indent=4))
+            with open('stock_not_trade.json','w') as file:
+                parsed = json.loads(json.dumps(not_trade_stock))
+                file.write(json.dumps(parsed,indent=4))
+            print("TRADE stock has been wroten in stock_trade.json")
+            print("NON-TRADE stock has been wroten in not_stock_trade.json")
         elif (action == 3):
             print("Count distinct stock datastream start...")
             nb_distinct = counting_distinct_stock()

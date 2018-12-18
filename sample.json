@@ -1,177 +1,344 @@
 [
     {
-        "avg": 329.27,
-        "high": 435,
-        "kode_saham": "MIRA",
-        "last": 413,
-        "low": 324,
-        "nama_perusahaan": "Mitra International Resources Tbk",
+        "avg": 1732.13,
+        "high": 1755,
+        "kode_saham": "BMRI",
+        "last": 1725,
+        "low": 1697,
+        "nama_perusahaan": "Bank Mandiri Persero",
         "sektoral": [
-            "INFRASTRUC"
+            "FINANCE",
+            "LQ45",
+            "KOMPAS100"
         ],
-        "timestamp": "Sun, 16 Dec 2018 10:01:54 GMT",
-        "value": 192971.69
+        "timestamp": "Tue, 18 Dec 2018 11:09:02 GMT",
+        "value": 566189.89
     },
     {
-        "avg": 1266.6,
-        "high": 1467,
-        "kode_saham": "PWON",
-        "last": 1181,
-        "low": 378,
-        "nama_perusahaan": "Pakuwon Jati Tbk",
+        "avg": 1011.31,
+        "high": 1617,
+        "kode_saham": "ROTI",
+        "last": 1107,
+        "low": 669,
+        "nama_perusahaan": "Nippon Indosari Corpindo Tbk",
+        "sektoral": [
+            "CONSUMER",
+            "PEFINDO25"
+        ],
+        "timestamp": "Tue, 18 Dec 2018 11:40:02 GMT",
+        "value": 324662.04
+    },
+    {
+        "avg": 1299.12,
+        "high": 1303,
+        "kode_saham": "PPRO",
+        "last": 1300,
+        "low": 1298,
+        "nama_perusahaan": "PP Properti Tbk PT",
         "sektoral": [
             "PROPERTY",
             "KOMPAS100"
         ],
-        "timestamp": "Sun, 16 Dec 2018 10:02:54 GMT",
-        "value": 726530.35
+        "timestamp": "Tue, 18 Dec 2018 11:28:02 GMT",
+        "value": 76375.27
     },
     {
-        "avg": 986.4,
-        "high": 1253,
-        "kode_saham": "PWON",
-        "last": 1226,
-        "low": 877,
-        "nama_perusahaan": "Pakuwon Jati Tbk",
+        "avg": 464.85,
+        "high": 466,
+        "kode_saham": "CNTB",
+        "last": 435,
+        "low": 280,
+        "nama_perusahaan": "Saham Seri B ( Centex Tbk )",
         "sektoral": [
-            "PROPERTY",
-            "KOMPAS100"
+            "MISC-IND"
         ],
-        "timestamp": "Sun, 16 Dec 2018 09:19:54 GMT",
-        "value": 550313.67
+        "timestamp": "Tue, 18 Dec 2018 11:05:02 GMT",
+        "value": 718969.7
     },
     {
-        "avg": 764.92,
-        "high": 952,
-        "kode_saham": "INDS",
-        "last": 580,
-        "low": 19,
-        "nama_perusahaan": "Indospring Tbk",
-        "sektoral": [
-            "MISC-IND",
-            "MANUFACTUR"
-        ],
-        "timestamp": "Sun, 16 Dec 2018 09:06:54 GMT",
-        "value": 511675.72
-    },
-    {
-        "avg": 779.45,
-        "high": 892,
-        "kode_saham": "MINA",
-        "last": 825,
-        "low": 206,
-        "nama_perusahaan": "PT Sanurhasta Mitra, Tbk",
+        "avg": 744.43,
+        "high": 942,
+        "kode_saham": "PGLI",
+        "last": 617,
+        "low": 415,
+        "nama_perusahaan": "Pembangunan Graha Lestari Indah Tbk",
         "sektoral": [
             "TRADE"
         ],
-        "timestamp": "Sun, 16 Dec 2018 09:37:54 GMT",
-        "value": 696917.99
+        "timestamp": "Tue, 18 Dec 2018 11:15:02 GMT",
+        "value": 487313.16
     },
     {
-        "avg": 1348.18,
-        "high": 1544,
-        "kode_saham": "CITA",
-        "last": 1426,
-        "low": 998,
-        "nama_perusahaan": "Cita Mineral Investindo Tbk",
+        "avg": 15.69,
+        "high": 20,
+        "kode_saham": "CNTB",
+        "last": 13,
+        "low": 13,
+        "nama_perusahaan": "Saham Seri B ( Centex Tbk )",
         "sektoral": [
-            "MINING"
+            "MISC-IND"
         ],
-        "timestamp": "Sun, 16 Dec 2018 09:20:54 GMT",
-        "value": 722844.87
+        "timestamp": "Tue, 18 Dec 2018 10:58:02 GMT",
+        "value": 594942.21
     },
     {
-        "avg": 469.41,
-        "high": 1305,
-        "kode_saham": "INDS",
-        "last": 400,
-        "low": 303,
-        "nama_perusahaan": "Indospring Tbk",
-        "sektoral": [
-            "MISC-IND",
-            "MANUFACTUR"
-        ],
-        "timestamp": "Sun, 16 Dec 2018 09:45:54 GMT",
-        "value": 37313.5
-    },
-    {
-        "avg": 387.52,
-        "high": 451,
-        "kode_saham": "MIRA",
-        "last": 339,
-        "low": 262,
-        "nama_perusahaan": "Mitra International Resources Tbk",
-        "sektoral": [
-            "INFRASTRUC"
-        ],
-        "timestamp": "Sun, 16 Dec 2018 09:27:54 GMT",
-        "value": 63212.64
-    },
-    {
-        "avg": 1486.31,
-        "high": 1549,
-        "kode_saham": "MIRA",
-        "last": 1380,
-        "low": 1323,
-        "nama_perusahaan": "Mitra International Resources Tbk",
-        "sektoral": [
-            "INFRASTRUC"
-        ],
-        "timestamp": "Sun, 16 Dec 2018 09:41:54 GMT",
-        "value": 68508.49
-    },
-    {
-        "avg": 1758.25,
-        "high": 1872,
-        "kode_saham": "PWON",
-        "last": 1220,
-        "low": 203,
-        "nama_perusahaan": "Pakuwon Jati Tbk",
+        "avg": 1393.85,
+        "high": 1861,
+        "kode_saham": "PPRO",
+        "last": 1555,
+        "low": 1244,
+        "nama_perusahaan": "PP Properti Tbk PT",
         "sektoral": [
             "PROPERTY",
             "KOMPAS100"
         ],
-        "timestamp": "Sun, 16 Dec 2018 09:33:55 GMT",
-        "value": 987789.89
+        "timestamp": "Tue, 18 Dec 2018 11:17:02 GMT",
+        "value": 495593.7
     },
     {
-        "avg": 72.61,
-        "high": 143,
-        "kode_saham": "CITA",
-        "last": 129,
-        "low": 0,
-        "nama_perusahaan": "Cita Mineral Investindo Tbk",
+        "avg": 618.67,
+        "high": 949,
+        "kode_saham": "MOLI",
+        "last": 186,
+        "low": 66,
+        "nama_perusahaan": "Madusari Murni Indah",
         "sektoral": [
-            "MINING"
+            "BASIC-IND"
         ],
-        "timestamp": "Sun, 16 Dec 2018 09:10:55 GMT",
-        "value": 246108.92
+        "timestamp": "Tue, 18 Dec 2018 11:28:02 GMT",
+        "value": 515788.67
     },
     {
-        "avg": 841.19,
-        "high": 1026,
-        "kode_saham": "PDES",
+        "avg": 1321.46,
+        "high": 1386,
+        "kode_saham": "PPRO",
+        "last": 238,
+        "low": 62,
+        "nama_perusahaan": "PP Properti Tbk PT",
+        "sektoral": [
+            "PROPERTY",
+            "KOMPAS100"
+        ],
+        "timestamp": "Tue, 18 Dec 2018 11:38:02 GMT",
+        "value": 515154.57
+    },
+    {
+        "avg": 7.53,
+        "high": 8,
+        "kode_saham": "PGLI",
+        "last": 7,
+        "low": 6,
+        "nama_perusahaan": "Pembangunan Graha Lestari Indah Tbk",
+        "sektoral": [
+            "TRADE"
+        ],
+        "timestamp": "Tue, 18 Dec 2018 11:20:02 GMT",
+        "value": 897435.89
+    },
+    {
+        "avg": 1388.87,
+        "high": 1426,
+        "kode_saham": "TOTO",
+        "last": 1401,
+        "low": 1321,
+        "nama_perusahaan": "Surya Toto Indonesia Tbk",
+        "sektoral": [
+            "BASIC-IND",
+            "MANUFACTUR"
+        ],
+        "timestamp": "Tue, 18 Dec 2018 10:48:02 GMT",
+        "value": 222183.67
+    },
+    {
+        "avg": 200.57,
+        "high": 1125,
+        "kode_saham": "CNTB",
+        "last": 690,
+        "low": 156,
+        "nama_perusahaan": "Saham Seri B ( Centex Tbk )",
+        "sektoral": [
+            "MISC-IND"
+        ],
+        "timestamp": "Tue, 18 Dec 2018 10:53:03 GMT",
+        "value": 777121.26
+    },
+    {
+        "avg": 934.37,
+        "high": 1534,
+        "kode_saham": "BMRI",
+        "last": 634,
+        "low": 333,
+        "nama_perusahaan": "Bank Mandiri Persero",
+        "sektoral": [
+            "FINANCE",
+            "LQ45",
+            "KOMPAS100"
+        ],
+        "timestamp": "Tue, 18 Dec 2018 11:35:03 GMT",
+        "value": 526065.04
+    },
+    {
+        "avg": 296.76,
+        "high": 368,
+        "kode_saham": "HEXA",
+        "last": 353,
+        "low": 268,
+        "nama_perusahaan": "Hexindo Adiperkasa Tbk",
+        "sektoral": [
+            "TRADE",
+            "PEFINDO25"
+        ],
+        "timestamp": "Tue, 18 Dec 2018 11:19:03 GMT",
+        "value": 433584.64
+    },
+    {
+        "avg": 1290.86,
+        "high": 1723,
+        "kode_saham": "CNTB",
+        "last": 1050,
+        "low": 619,
+        "nama_perusahaan": "Saham Seri B ( Centex Tbk )",
+        "sektoral": [
+            "MISC-IND"
+        ],
+        "timestamp": "Tue, 18 Dec 2018 11:15:03 GMT",
+        "value": 504511.75
+    },
+    {
+        "avg": 288.84,
+        "high": 308,
+        "kode_saham": "PPRO",
+        "last": 305,
+        "low": 274,
+        "nama_perusahaan": "PP Properti Tbk PT",
+        "sektoral": [
+            "PROPERTY",
+            "KOMPAS100"
+        ],
+        "timestamp": "Tue, 18 Dec 2018 10:53:03 GMT",
+        "value": 408282.78
+    },
+    {
+        "avg": 484.11,
+        "high": 815,
+        "kode_saham": "RODA",
         "last": 731,
-        "low": 392,
-        "nama_perusahaan": "Destinasi Tirta Nusantara Tbk",
+        "low": 317,
+        "nama_perusahaan": "Pikko Land Development Tbk",
+        "sektoral": [
+            "PROPERTY"
+        ],
+        "timestamp": "Tue, 18 Dec 2018 11:25:03 GMT",
+        "value": 203766.53
+    },
+    {
+        "avg": 1249.09,
+        "high": 1894,
+        "kode_saham": "RODA",
+        "last": 1834,
+        "low": 942,
+        "nama_perusahaan": "Pikko Land Development Tbk",
+        "sektoral": [
+            "PROPERTY"
+        ],
+        "timestamp": "Tue, 18 Dec 2018 11:02:03 GMT",
+        "value": 334568.57
+    },
+    {
+        "avg": 801.94,
+        "high": 1098,
+        "kode_saham": "CNTB",
+        "last": 999,
+        "low": 658,
+        "nama_perusahaan": "Saham Seri B ( Centex Tbk )",
+        "sektoral": [
+            "MISC-IND"
+        ],
+        "timestamp": "Tue, 18 Dec 2018 10:54:03 GMT",
+        "value": 129057.72
+    },
+    {
+        "avg": 100.86,
+        "high": 101,
+        "kode_saham": "SSMS",
+        "last": 97,
+        "low": 97,
+        "nama_perusahaan": "Sawit Sumbermas Sarana Tbk",
+        "sektoral": [
+            "AGRI",
+            "LQ45",
+            "KOMPAS100"
+        ],
+        "timestamp": "Tue, 18 Dec 2018 11:20:03 GMT",
+        "value": 109938.65
+    },
+    {
+        "avg": 177.03,
+        "high": 211,
+        "kode_saham": "BMRI",
+        "last": 100,
+        "low": 90,
+        "nama_perusahaan": "Bank Mandiri Persero",
+        "sektoral": [
+            "FINANCE",
+            "LQ45",
+            "KOMPAS100"
+        ],
+        "timestamp": "Tue, 18 Dec 2018 11:25:03 GMT",
+        "value": 464572.42
+    },
+    {
+        "avg": 312.04,
+        "high": 343,
+        "kode_saham": "BMRI",
+        "last": 325,
+        "low": 251,
+        "nama_perusahaan": "Bank Mandiri Persero",
+        "sektoral": [
+            "FINANCE",
+            "LQ45",
+            "KOMPAS100"
+        ],
+        "timestamp": "Tue, 18 Dec 2018 11:41:03 GMT",
+        "value": 797203.52
+    },
+    {
+        "avg": 941.04,
+        "high": 1086,
+        "kode_saham": "PGLI",
+        "last": 997,
+        "low": 416,
+        "nama_perusahaan": "Pembangunan Graha Lestari Indah Tbk",
         "sektoral": [
             "TRADE"
         ],
-        "timestamp": "Sun, 16 Dec 2018 09:56:55 GMT",
-        "value": 712468.75
+        "timestamp": "Tue, 18 Dec 2018 11:46:03 GMT",
+        "value": 443188.17
     },
     {
-        "avg": 97.98,
-        "high": 103,
-        "kode_saham": "PWON",
-        "last": 99,
-        "low": 85,
-        "nama_perusahaan": "Pakuwon Jati Tbk",
+        "avg": 119.31,
+        "high": 224,
+        "kode_saham": "PGLI",
+        "last": 153,
+        "low": 51,
+        "nama_perusahaan": "Pembangunan Graha Lestari Indah Tbk",
         "sektoral": [
-            "PROPERTY",
-            "KOMPAS100"
+            "TRADE"
         ],
-        "timestamp": "Sun, 16 Dec 2018 09:23:55 GMT",
-        "value": 151409.94
+        "timestamp": "Tue, 18 Dec 2018 11:10:03 GMT",
+        "value": 154186.88
+    },
+    {
+        "avg": 224.12,
+        "high": 277,
+        "kode_saham": "MOLI",
+        "last": 258,
+        "low": 214,
+        "nama_perusahaan": "Madusari Murni Indah",
+        "sektoral": [
+            "BASIC-IND"
+        ],
+        "timestamp": "Tue, 18 Dec 2018 10:55:03 GMT",
+        "value": 209701.38
     }
 ]
